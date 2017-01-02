@@ -1,11 +1,11 @@
 # Curriculum vitae: Jason D. Moss
-<sub>**latest version:** https://github.com/jasondmoss/cv</sub>
 
 <br>
 **Jason D. Moss**<br>
 [jason@jdmlabs.com][1]<br>
 +1 902-479-0734<br>
 Halifax, Canada<br>
+<sub>**latest version:** https://github.com/jasondmoss/cv</sub>
 
 <br>
 ##In Brief
