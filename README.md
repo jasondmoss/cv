@@ -1,5 +1,5 @@
 # Curriculum vitae: Jason D. Moss
-<small>**latest version:** https://github.com/jasondmoss/cv</small>
+<sub>**latest version:** https://github.com/jasondmoss/cv</sub>
 
 <br>
 **Jason D. Moss**<br>
