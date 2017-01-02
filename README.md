@@ -1,4 +1,3 @@
-<sub>**Latest version:** https://github.com/jasondmoss/cv</sub>
 # Curriculum vitae: Jason D. Moss
 
 <br>
@@ -114,6 +113,7 @@ _**[Gavin Mullen][15]**, Director of Technology at **VERB Interactive Inc.**_
  * **Flickr** [https://www.flickr.com/people/jasondmoss/]
  * **Last.fm** [http://www.last.fm/user/jasonmoss/]
 
+<sub>**Latest version:** https://github.com/jasondmoss/cv</sub>
 
 
   [1]: mailto:jason@jdmlabs.com "Contact Jason Moss"
