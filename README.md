@@ -126,7 +126,7 @@ _**[Gavin Mullen][15]**, Director of Technology at **VERB Interactive Inc.**_
   [8]: https://vuejs.org/ "Vue JS: The Progressive JavaScript Framework"
   [9]: http://gruntjs.com/ "Grunt: The JavaScript Task Runner"
   [10]: https://www.jdmlabs.com/ "JdmLabs (Jason D. Moss) &#187; Compliant. Portable. Functional."
-  [11]: http://www.gotothewell.ca/ "Find local creatives and business talents"
+  [11]: http://www.gotothewell.ca/jasonmoss1 "Find local creatives and business talents"
   [12]: http://www.verbinteractive.com/ "VERB: A Travel & Hotel Internet Marketing Agency"
   [13]: https://www.mediamechanics.com/ "Media Mechanics: Web Design, Development &amp; Marketing"
   [14]: http://revolve.ca/ "Revolve Branding &amp; Marketing"
