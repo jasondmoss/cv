@@ -15,7 +15,7 @@ Since the start, I have been a strong proponent of "sticking to the basics": PHP
 
 Efficient PHP to manage content; properly structured HTML to render the content; straight-forward styles to display the content; JavaScript to "spice it up" and add extra "pop" to the content; always works. Nothing more, nothing less.
 
-That said, there are newer frameworks, libraries and buildtools that are absolutely phenomenal and certainly take development to the next level. The tools that I find are my "go to" tools: [WordPress][2], [Craft CMS][3], [Laravel][4],  [Symfony][5], [JavaScript][6], [jQuery][7], [CSS3][8] [Vue][9], [Grunt][10].
+That said, there are newer frameworks, libraries and buildtools that are absolutely phenomenal and certainly take development to the next level. The tools that I find are my "go to" tools: [WordPress][2], [Craft CMS][3], [Laravel][4],  [Symfony][5], [JavaScript][6], [jQuery][7], [CSS3][8], [Vue][9], [Grunt][10].
 
 I find mixing the basics with these tools allow me, as a developer, and the client(s), as content managers, much freedom, fluidity and control over how they publish their content (products, posts, media) to their customers, wherever they are and however the customer wishes to consume it.
 
