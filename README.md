@@ -15,7 +15,7 @@ Since the start, I have been a strong proponent of "sticking to the basics": PHP
 
 Efficient PHP to manage content; properly structured HTML to render the content; straight-forward styles to display the content; JavaScript to "spice it up" and add extra "pop" to the content; always works. Nothing more, nothing less.
 
-That said, there are newer frameworks, libraries and buildtools that are absolutely phenomenal and certainly take development to the next level. The tools that I find are my "go to" tools: [WordPress][2], [Craft CMS][3], [Laravel][4],  [Symfony][5], [JavaScript][6], [jQuery][7], [Vue][8], [Grunt][9].
+That said, there are newer frameworks, libraries and buildtools that are absolutely phenomenal and certainly take development to the next level. The tools that I find are my "go to" tools: [WordPress][2], [Craft CMS][3], [Laravel][4],  [Symfony][5], [JavaScript][6], [jQuery][7], [CSS3][8] [Vue][9], [Grunt][10].
 
 I find mixing the basics with these tools allow me, as a developer, and the client(s), as content managers, much freedom, fluidity and control over how they publish their content (products, posts, media) to their customers, wherever they are and however the customer wishes to consume it.
 
@@ -25,7 +25,7 @@ I find mixing the basics with these tools allow me, as a developer, and the clie
 **JdmLabs**<br>
 *Independent Web Developer (Intermediate/Senior)*<br>
 Oct 2006 — present<br>
-[jdmlabs.com][10]<br>
+[jdmlabs.com][11]<br>
 
 Been working as an independent contractor for many years now, ranging from custom plug-ins, to complete multilingual + multi-site setups; e-commerce; small websites; single-page applications; and nearly everything in between.
 <br><br>
@@ -33,7 +33,7 @@ Been working as an independent contractor for many years now, ranging from custo
 **The Well - Creative Consultants Inc.**<br>
 *Independent Web Developer (Intermediate/Senior)*<br>
 Nov 2016 — present<br>
-[gotothewell.ca][11]<br>
+[gotothewell.ca][12]<br>
 
 Made up entirely of experienced full-time freelancers, The Well is a talent agent of sorts. A matchmaker between businesses and creative and professional talents, The Well has been born out of the idea that there are new business and economic realities that are widening the gap between what businesses need and the typical offerings of the creative firm.
 
@@ -43,7 +43,7 @@ Hand pick your team or work with just one consultant - The Well is your smart, a
 **VERB Interactive Inc.**<br>
 *Web Developer (Intermediate/Senior)*<br>
 Mar 2014 — Sept 2016<br>
-[verbinteractive.com][12]<br>
+[verbinteractive.com][13]<br>
 
 Built and maintained (back-end/front-end) websites and components for some of the largest travel + destination companies in the industry.
  * custom content administration + rendering
@@ -54,7 +54,7 @@ Built and maintained (back-end/front-end) websites and components for some of th
 **Media Mechanics Inc.**<br>
 *Independent Web Developer (Intermediate/Senior)*<br>
 Aug 2012 — May 2013<br>
-[mediamechanics.com][13]<br>
+[mediamechanics.com][14]<br>
 
 Contract-based development work:
  * custom content administration + rendering
@@ -65,7 +65,7 @@ Contract-based development work:
 **Revolve Branding + Marketing**<br>
 *Web Developer (Intermediate)*<br>
 Jan 2011 — Feb 2012<br>
-[revolve.ca][14]<br>
+[revolve.ca][15]<br>
 
 Built and maintained (back-end/front-end) websites and components for local and cross-Canada companies:
  * company websites + blogs
@@ -91,11 +91,11 @@ These are a few of the (*currently active*) sites I've worked on or still curren
 ##Recommendations
 > I've worked with Jason in varying capacities for 2-3 years and he is a pleasure, both as a developer and as a person.  I've never known Jason to shy away from any challenge in the web development world and this makes him a important part of any project.  He writes modern, semantic and well-commented code in both the front-end and back-end arenas.  He asks lots of questions, provides solutions, is always eager to learn and is willing to do whatever it takes to see a job through.  I'd recommend Jason to anyone.
 
-_**[Gavin Mullen][15]**, Director of Technology at **VERB Interactive Inc.**_
+_**[Gavin Mullen][16]**, Director of Technology at **VERB Interactive Inc.**_
 <br>
 * * *
 <br>
-**[Jeff Baur][16]**, at **VERB Interactive Inc.**
+**[Jeff Baur][17]**, at **VERB Interactive Inc.**
 
 <br>
 ##Education
@@ -124,12 +124,13 @@ _**[Gavin Mullen][15]**, Director of Technology at **VERB Interactive Inc.**_
   [5]: https://symfony.com/ "Symfony: High Performance PHP Framework for Web Development"
   [6]: https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript | Mozilla Developer Network"
   [7]: http://jquery.com/ "jQuery: The Write Less, Do More, JavaScript Library"
-  [8]: https://vuejs.org/ "Vue JS: The Progressive JavaScript Framework"
-  [9]: http://gruntjs.com/ "Grunt: The JavaScript Task Runner"
-  [10]: https://www.jdmlabs.com/ "JdmLabs (Jason D. Moss) &#187; Compliant. Portable. Functional."
-  [11]: http://www.gotothewell.ca/jasonmoss1 "Find local creatives and business talents"
-  [12]: http://www.verbinteractive.com/ "VERB: A Travel & Hotel Internet Marketing Agency"
-  [13]: https://www.mediamechanics.com/ "Media Mechanics: Web Design, Development &amp; Marketing"
-  [14]: http://revolve.ca/ "Revolve Branding &amp; Marketing"
-  [15]: mailto:gavin.mullen@verbinteractive.com "Contact Gavin Mullen"
-  [16]: mailto:jeff.baur@gmail.com "Contact Jeff Baur"
+  [8]: https://www.w3.org/Style/CSS/ "W3C: Cascading Style Sheets (CSS)"
+  [9]: https://vuejs.org/ "Vue JS: The Progressive JavaScript Framework"
+  [10]: http://gruntjs.com/ "Grunt: The JavaScript Task Runner"
+  [11]: https://www.jdmlabs.com/ "JdmLabs (Jason D. Moss) &#187; Compliant. Portable. Functional."
+  [12]: http://www.gotothewell.ca/jasonmoss1 "Find local creatives and business talents"
+  [13]: http://www.verbinteractive.com/ "VERB: A Travel & Hotel Internet Marketing Agency"
+  [14]: https://www.mediamechanics.com/ "Media Mechanics: Web Design, Development &amp; Marketing"
+  [15]: http://revolve.ca/ "Revolve Branding &amp; Marketing"
+  [16]: mailto:gavin.mullen@verbinteractive.com "Contact Gavin Mullen"
+  [17]: mailto:jeff.baur@gmail.com "Contact Jeff Baur"
