@@ -91,11 +91,11 @@ These are a few of the (*currently active*) sites I've worked on or still curren
 ##Recommendations
 > I've worked with Jason in varying capacities for 2-3 years and he is a pleasure, both as a developer and as a person.  I've never known Jason to shy away from any challenge in the web development world and this makes him a important part of any project.  He writes modern, semantic and well-commented code in both the front-end and back-end arenas.  He asks lots of questions, provides solutions, is always eager to learn and is willing to do whatever it takes to see a job through.  I'd recommend Jason to anyone.
 
-_**[Gavin Mullen][16]**, Director of Technology at **VERB Interactive Inc.**_
+_**Gavin Mullen**, Director of Technology at **VERB Interactive Inc.**_
 <br>
 * * *
 <br>
-**[Jeff Baur][17]**, at **VERB Interactive Inc.**
+**Jeff Baur**, at **VERB Interactive Inc.**
 
 <br>
 ##Education
