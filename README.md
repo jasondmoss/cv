@@ -74,18 +74,18 @@ Built and maintained (back-end/front-end) websites and components for local and 
 
 ##Active Sites
 These are a few of the (*currently active*) sites I've worked on or still currently involved in maintaining...
- * **SockEm Design** [http://sockemdesign.com/]
- * **Hilton Head Island, South Carolina (multiple sub-sites)** [http://www.hiltonheadisland.org/]
  * **Royal Caribbean International Social Networking &#38; Media Hub** [http://www.royalcaribbean.com/connect/]
+ * **Hilton Head Island, South Carolina (multiple sub-sites)** [http://www.hiltonheadisland.org/]
  * **Tourism PEI: Ask an Islander** [https://www.tourismpei.com/askanislander]
- * **Streamsong Resort** [http://www.streamsongresort.com/]
- * **Xanterra Parks &#38; Resorts Inc.** [http://www.xanterra.com/]
  * **Azamara Club Cruises** [http://azamara.com/]
  * **1 Hotel &#38; Homes South Beach (*Broker site*)** [http://brokers.1hotels.com/southbeach/]
+ * **Streamsong Resort** [http://www.streamsongresort.com/]
+ * **Xanterra Parks &#38; Resorts Inc.** [http://www.xanterra.com/]
  * **Best Burners Ltd.** [http://www.bestburners.ca/]
  * **BR Guest Hospitality (multiple sub-sites)** [http://www.brguesthospitality.com/]
  * **Westwood Group** [http://www.westwoodgroup.ca/]
  * **Getting Where You Need To Go** [http://www.gettingwhereyouneedtogo.com/]
+ * **SockEm Design** [http://sockemdesign.com/]
 
 <br>
 ##Recommendations
