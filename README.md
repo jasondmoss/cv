@@ -113,7 +113,7 @@ _**Gavin Mullen**, Director of Technology at **VERB Interactive Inc.**_
  * **Behance** [https://www.behance.net/jasondmoss]
  * **Twitter** [https://twitter.com/jasondmoss]
  * **Google+** [https://plus.google.com/+JasonMossOfHalifax]
- * **Flickr** [https://www.flickr.com/people/jasondmoss/]
+ * **Flickr** [https://www.flickr.com/photos/jasondmoss/]
  * **Last.fm** [http://www.last.fm/user/jasonmoss/]
 
 <sub>**Latest version:** https://github.com/jasondmoss/cv</sub>
