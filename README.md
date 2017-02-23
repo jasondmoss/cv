@@ -9,13 +9,13 @@ Halifax, Canada<br>
 <br>
 ##In Brief
 
-I have been working as a web developer since 2006. Over the years, I have worked with many wonderful companies within multiple industries and I have seen multiple technologies and development techniques come and go.
+I have been working as a web developer since 2006.&#160;  Over the years, I have worked with many wonderful companies within multiple industries and I have seen multiple technologies and development techniques come and go.
 
-From the beginning, I have been a strong proponent of "sticking to the basics".  Of course, the basics have changed somewhat over time, but essentially starts with: PHP, HTML, CSS, JavaScript.  Efficient PHP to manage content;  properly structured HTML to render the content;  straight-forward styles to display the content;  JavaScript to "spice it up" and add extra "pop" to the content;  always works.
+From the beginning, I have been a strong proponent of "sticking to the basics".&#160;  Of course, the basics have changed somewhat over time, but essentially starts with:&#160;  PHP, HTML, CSS, JavaScript.&#160;  Efficient PHP to manage content;&#160;  properly structured HTML to render the content;&#160;  straight-forward styles to display the content;&#160;  JavaScript to "spice it up" and add extra "pop" to the content.
 
 Nothing more, nothing less.
 
-That said, there are newer frameworks, libraries and buildtools that are absolutely phenomenal and certainly take development to the next level.  The tools that I find are my "go to" tools:  [WordPress][2], [Symfony][5] ([Laravel][4], [Craft CMS][3], etc.),  [JavaScript][6] ([Vue][9], [jQuery][7]), [CSS3][8], and [Grunt][10].
+That said, there are newer frameworks, libraries and buildtools that are absolutely phenomenal and certainly take development to the next level.&#160;  The tools that I find are my "go to" tools:&#160;  [WordPress][2], [Symfony][5] ([Laravel][4], [Craft CMS][3], etc.),  [JavaScript][6] ([Vue][9], [jQuery][7]), [CSS3][8], and [Grunt][10].
 
 I find mixing the basics with these tools allow me, as a developer, and for the client(s), as content managers, much freedom, fluidity and control over how they publish their content (products, posts, media) to their customers, wherever they are and however the customer wishes to consume it.
 
