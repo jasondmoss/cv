@@ -92,12 +92,6 @@ These are a few of the (*currently active*) sites I've worked on or still curren
 > I've worked with Jason in varying capacities for 2-3 years and he is a pleasure, both as a developer and as a person.  I've never known Jason to shy away from any challenge in the web development world and this makes him a important part of any project.  He writes modern, semantic and well-commented code in both the front-end and back-end arenas.  He asks lots of questions, provides solutions, is always eager to learn and is willing to do whatever it takes to see a job through.  I'd recommend Jason to anyone.
 
 _**Gavin Mullen**, Director of Technology at **VERB Interactive Inc.**_
-<!--
-<br>
-* * *
-<br>
-**Jeff Baur**, at **VERB Interactive Inc.**
--->
 
 <br>
 ##Education
@@ -107,8 +101,8 @@ _**Gavin Mullen**, Director of Technology at **VERB Interactive Inc.**_
 
 <br>
 ##Profiles
- * **GitHub** [https://github.com/jasondmoss]
- * **Gists** [https://gist.github.com/jasondmoss]
+ * **GitHub** _(Public)_ [https://github.com/jasondmoss]
+ * **Gists** _(Public)_ [https://gist.github.com/jasondmoss]
  * **About.me** [https://about.me/jasondmoss]
  * **LinkedIn** [https://www.linkedin.com/in/jasondmoss]
  * **Behance** [https://www.behance.net/jasondmoss]
