@@ -108,6 +108,7 @@ _**Gavin Mullen**, Director of Technology at **VERB Interactive Inc.**_
 <br>
 ##Profiles
  * **GitHub** [https://github.com/jasondmoss]
+ * **Gists** [https://gist.github.com/jasondmoss]
  * **About.me** [https://about.me/jasondmoss]
  * **LinkedIn** [https://www.linkedin.com/in/jasondmoss]
  * **Behance** [https://www.behance.net/jasondmoss]
