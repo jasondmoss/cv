@@ -11,7 +11,7 @@ Halifax, Canada<br>
 
 I have been working as a web developer since 2006.&#160;  Over the years, I have worked with many wonderful companies within multiple industries and I have seen multiple technologies and development techniques come and go.
 
-From the beginning, I have been a strong proponent of "sticking to the basics".&#160;  Of course, the basics have changed somewhat over time, but essentially starts with:&#160;  PHP, HTML, CSS, JavaScript.&#160;  Efficient PHP to manage content;&#160;  properly structured HTML to render the content;&#160;  straight-forward styles to display the content;&#160;  JavaScript to "spice it up" and add extra "pop" to the content.
+From the beginning, I have been a strong proponent of "sticking to the basics".&#160;  Of course, the "basics" have changed somewhat over time, but essentially starts with:&#160;  PHP, HTML, CSS, JavaScript.&#160;  Efficient PHP to manage content;&#160;  properly structured HTML to render the content;&#160;  straight-forward styles to display the content;&#160;  JavaScript to "spice it up" and add extra "pop" to the content.
 
 Nothing more, nothing less.
 
