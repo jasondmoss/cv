@@ -1,15 +1,4 @@
 # Curriculum vitae: Jason D. Moss
-<style>
-.column-wrapper {
-  -moz-column-count: 2;
-  -webkit-column-count: 2;
-  column-count: 2;
-  -moz-column-rule: 1px dotted #e0e0e0;
-  -webkit-column-rule: 1px dotted #e0e0e0;
-  column-rule: 1px dotted #e0e0e0;
-}
-</style>
-
 
 <br>
 **Jason D. Moss**<br>
@@ -25,23 +14,19 @@ I plan, develop, implement and maintain modern web sites and applications; adher
 <br>
 ##Skills
 
-<div class="column-wrapper">
-  <div style="display: inline-block">
-    <ul>
-      <li>Skill item 1a</li>
-      <li>Skill item 1b</li>
-      <li>Skill item 1c</li>
-    </ul>
-  </div>
-  <div style="display: inline-block">
-    <ul>
-      <li>Skill item 2a</li>
-      <li>Skill item 2b</li>
-      <li>Skill item 2c</li>
-    </ul>
-  </div>
-</div>
-
+- WordPress [senior]
+- Symfony [intermediate]
+- Laravel [intermediate]
+- Craft CMS [intermediate]
+- JavaScript (jQuery, Vue) [intermediate/senior]
+- HTML5 [senior]
+- CSS3 [senior]
+- Responsive Design [senior]
+- JSON/REST/AJAX [senior]
+- Databases (MySQL, PostgreSQL) [intermediate]
+- Version Control Systems [intermediate]
+- Linux server admin [intermediate]
+- Unit and load testing [intermediate]
 
 <br>
 ##Work
