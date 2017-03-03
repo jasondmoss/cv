@@ -14,19 +14,22 @@ I plan, develop, implement and maintain modern web sites and applications; adher
 <br>
 ##Skills
 
-- WordPress [senior]
-- Symfony [intermediate]
-- Laravel [intermediate]
-- Craft CMS [intermediate]
-- JavaScript (jQuery, Vue) [intermediate/senior]
+- PHP
+  - WordPress [senior]
+  - Symfony [intermediate]
+  - Laravel [intermediate]
+  - Craft CMS [intermediate]
+- JavaScript
+  - jQuery [senior]
+  - Vue [intermediate]
 - HTML5 [senior]
 - CSS3 [senior]
 - Responsive Design [senior]
 - JSON/REST/AJAX [senior]
+- Unit testing [intermediate]
 - Databases (MySQL, PostgreSQL) [intermediate]
-- Version Control Systems [intermediate]
-- Linux server admin [intermediate]
-- Unit and load testing [intermediate]
+- Version Control Systems (Git, SVN) [intermediate]
+- Linux server admin (Apache, scripts) [intermediate]
 
 <br>
 ##Work
