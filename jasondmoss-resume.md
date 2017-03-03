@@ -1,4 +1,15 @@
 # Curriculum vitae: Jason D. Moss
+<style>
+.column-wrapper {
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  column-count: 2;
+  -moz-column-rule: 1px dotted #e0e0e0;
+  -webkit-column-rule: 1px dotted #e0e0e0;
+  column-rule: 1px dotted #e0e0e0;
+}
+</style>
+
 
 <br>
 **Jason D. Moss**<br>
@@ -14,7 +25,7 @@ I plan, develop, implement and maintain modern web sites and applications; adher
 <br>
 ##Skills
 
-<div style="-moz-column-count: 2;-webkit-column-count: 2;column-count: 2;-moz-column-rule: 1px dotted #e0e0e0;-webkit-column-rule: 1px dotted #e0e0e0;column-rule: 1px dotted #e0e0e0">
+<div class="column-wrapper">
   <div style="display: inline-block">
     <ul>
       <li>Skill item 1a</li>
