@@ -22,10 +22,11 @@ I plan, develop, implement and maintain modern web sites and applications; adher
 - JavaScript
   - jQuery _[senior]_
   - Vue _[intermediate]_
+- CSS3 (Bootstrap, Foundation) _[senior]_
+- Grunt _[senior]_
 - JSON/REST/AJAX _[senior]_
 - Unit testing _[intermediate]_
 - HTML5 _[senior]_
-- CSS3 _[senior]_
 - Responsive Design _[senior]_
 - SEO + Web positioning _[intermediate]_
 - Databases (MySQL, PostgreSQL) _[intermediate]_
