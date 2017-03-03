@@ -14,6 +14,19 @@ I plan, develop, implement and maintain modern web sites and applications; adher
 <br>
 ##Skills
 
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+  <div style="display: inline-block;">
+    <ul>
+      <li>Skill item 1</li>
+    </ul>
+  </div>
+  <div style="display: inline-block;">
+    <ul>
+      <li>Skill item 2</li>
+    </ul>
+  </div>
+</div>
+
 <br>
 ##Work
 
