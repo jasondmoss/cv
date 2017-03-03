@@ -13,7 +13,6 @@ I plan, develop, implement and maintain modern web sites and applications; adher
 
 <br>
 ##Skills
- - Skill 1                                          - Skill 2
 
 <br>
 ##Work
