@@ -83,7 +83,7 @@ Built and maintained (back-end/front-end) websites and components for some of th
 <br>
 
 **Media Mechanics Inc.**<br>
-*Independent Web Developer (Intermediate/Senior)*<br>
+*Web Developer (Intermediate/Senior)*<br>
 Aug 2012 — May 2013<br>
 <small>*[Drupal, WordPress]*</small><br>
 [mediamechanics.com](https://www.mediamechanics.com/)
@@ -161,7 +161,6 @@ These are a few of the (*currently active*) sites I have built or worked on...
 
 ## Profiles
 **GitHub** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [https://github.com/jasondmoss](https://github.com/jasondmoss)<br>
-**Gists** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [https://gist.github.com/jasondmoss](https://gist.github.com/jasondmoss)<br>
 **Behance** &#160;&#160;&#160;&#160;&#160; [https://www.behance.net/jasondmoss](https://www.behance.net/jasondmoss)<br>
 **About.me** &#160;&#160;&#160; [https://about.me/jasondmoss](https://about.me/jasondmoss)<br>
 **LinkedIn** &#160;&#160;&#160;&#160;&#160; [https://www.linkedin.com/in/jasondmoss](https://www.linkedin.com/in/jasondmoss)<br>
