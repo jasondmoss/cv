@@ -49,7 +49,7 @@ Been working as an independent contractor, to varying  degree, for many years no
 *Web Developer (Intermediate/Senior)*<br>
 Jul 2017 — Apr 2023<br>
 <small>*[Drupal, WordPress]*</small><br>
-[verbinteractive.com](https://www.verbinteractive.com/)
+[outcrop.com](https://outcrop.com/)
 
 Built and maintained (back-end/front-end) websites and components for many northern Canada companies, institutions and government entities.
 
