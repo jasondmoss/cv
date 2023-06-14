@@ -4,6 +4,8 @@
 **Email:** &#160;&#160;&#160; [work@jdmlabs.com](mailto:work@jdmlabs.com)<br>
 **Phone:** &#160;&#160; +1 (867) 765-8415<br>
 Ottawa, Canada
+<br><br>
+[https://github.com/jasondmoss/cv](https://github.com/jasondmoss/cv)
 <br>
 
 ## In Brief
@@ -23,7 +25,6 @@ Compliant. Portable. Functional.
     - b2evolution *[intermediate]*
     - Testing (Unit, Pest) *[intermediate]*
 - JavaScript *[intermediate/senior]*
-    - JSON/REST/AJAX *[intermediate/senior]*
 - Semantic HTML *[senior]*
 - Structured Data + SEO *[intermediate/senior]*
 - CSS *[senior]*
@@ -158,7 +159,7 @@ These are some (*currently active*) sites I have built or worked on...
 *Computer Information Systems*<br>
 2001 — 2003
 
-**Numerous online/offline free/purchased courses, countless books, and hands-on experience**<br>
+Numerous online/offline free/purchased courses, countless books, and hands-on experience<br>
 2001 — present
 <br>
 
@@ -175,7 +176,3 @@ These are some (*currently active*) sites I have built or worked on...
 &#160;&#160;&#160;&#160; **LinkedIn** &#160;&#160;&#160;&#160;&#160; [https://www.linkedin.com/in/jasondmoss](https://www.linkedin.com/in/jasondmoss)<br>
 &#160;&#160;&#160;&#160; **Twitter** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [https://twitter.com/jasondmoss](https://twitter.com/jasondmoss)<br>
 &#160;&#160;&#160;&#160; **Last.fm** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [http://www.last.fm/user/jasonmoss/](http://www.last.fm/user/jasonmoss/)
-<br><br><br><br>
-
-<small>**Latest version:** [https://github.com/jasondmoss/cv](https://github.com/jasondmoss/cv) </small>
-<br>
