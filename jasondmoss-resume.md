@@ -175,4 +175,4 @@ Numerous online/offline free/purchased courses, countless books, and hands-on ex
 &#160;&#160;&#160;&#160; **About.me** &#160;&#160;&#160; [https://about.me/jasondmoss](https://about.me/jasondmoss)<br>
 &#160;&#160;&#160;&#160; **LinkedIn** &#160;&#160;&#160;&#160;&#160; [https://www.linkedin.com/in/jasondmoss](https://www.linkedin.com/in/jasondmoss)<br>
 &#160;&#160;&#160;&#160; **Twitter** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [https://twitter.com/jasondmoss](https://twitter.com/jasondmoss)<br>
-&#160;&#160;&#160;&#160; **Last.fm** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [http://www.last.fm/user/jasonmoss/](http://www.last.fm/user/jasonmoss/)
+&#160;&#160;&#160;&#160; **Last.fm** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [https://www.last.fm/user/jasondmoss/](https://www.last.fm/user/jasondmoss/)
