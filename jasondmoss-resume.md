@@ -8,13 +8,13 @@ Ottawa, Canada
 [https://github.com/jasondmoss/cv](https://github.com/jasondmoss/cv)
 <br>
 
-## In Brief
+## IN BRIEF
 
-I plan, develop, implement and maintain modern web sites and applications; adhering to strict standards and conventions.<br><br>
+I plan, develop, implement and maintain modern web sites and applications; adhering to strict standards and conventions.
+
 Compliant. Portable. Functional.
-<br>
 
-## Skills
+## TECHNICAL SKILLS
 
 - PHP
     - Drupal *[intermediate]*
@@ -32,12 +32,10 @@ Compliant. Portable. Functional.
 - Databases (MySQL, PostgreSQL) *[intermediate]*
 - Linux server admin (Apache, scripts) *[intermediate]*
 - Version Control Systems (Git, SVN) *[intermediate]*
-<br>
 
-## Work
+## WORK EXPERIENCE
 
-
-**JdmLabs**<br>
+### JdmLabs
 *Independent Web Developer (Intermediate/Senior)*<br>
 Oct 2006 — present<br>
 <small>*[Drupal, Laravel, WordPress, Craft CMS, b2evolution, Shopify]*</small><br>
@@ -46,7 +44,7 @@ Oct 2006 — present<br>
 Been working as an independent contractor, to varying  degree, for many years now, ranging from custom plug-ins, to complete multilingual + multi-site setups; e-commerce; small websites; single-page applications; and nearly everything in between.
 <br>
 
-**Outcrop Communications Ltd.**<br>
+### Outcrop Communications Ltd.
 *Web Developer (Intermediate/Senior)*<br>
 Jul 2017 — Apr 2023<br>
 <small>*[Drupal, WordPress]*</small><br>
@@ -59,7 +57,7 @@ Built and maintained (back-end/front-end) websites and components for many north
 - custom APIs for web + mobile integrations
 <br>
 
-**The Well - Creative Consultants Inc.**<br>
+### The Well - Creative Consultants Inc.
 *Independent Web Developer (Intermediate/Senior)*<br>
 Nov 2016 — 2017<br>
 <small>*[WordPress]*</small><br>
@@ -70,7 +68,7 @@ Made up entirely of experienced full-time freelancers, The Well is a talent agen
 Hand pick your team or work with just one consultant - The Well is your smart, affordable portal to seasoned creative and business consultants.
 <br>
 
-**VERB Interactive Inc.**<br>
+### VERB Interactive Inc.
 *Web Developer (Intermediate/Senior)*<br>
 Mar 2014 — Sept 2016<br>
 <small>*[Drupal, WordPress]*</small><br>
@@ -83,7 +81,7 @@ Built and maintained (back-end/front-end) websites and components for some of th
 - custom APIs for web + mobile integrations
 <br>
 
-**Media Mechanics Inc.**<br>
+### Media Mechanics Inc.
 *Web Developer (Intermediate/Senior)*<br>
 Aug 2012 — May 2013<br>
 <small>*[Drupal, WordPress]*</small><br>
@@ -96,7 +94,7 @@ Contract-based development work:
 - company websites + blogs
 <br>
 
-**Revolve Branding + Marketing**<br>
+### Revolve Branding + Marketing
 *Web Developer (Intermediate)*<br>
 Jan 2011 — Feb 2012<br>
 <small>*[Drupal, WordPress]*</small><br>
@@ -108,39 +106,39 @@ Built and maintained (back-end/front-end) websites and components for local and 
 - third-party content integration
 <br>
 
-## Site Samples
+## SITE SAMPLES
 These are some (*currently active*) sites I have built or worked on...
 
-### <u>*Drupal:*</u>
+### <u>Drupal:</u>
 
-&#160;&#160;&#160;&#160; **Northwest Territories Tourism**<br>
-&#160;&#160;&#160;&#160;     [spectacularnwt.com](https://spectacularnwt.com/) *(main site)*<br>
-&#160;&#160;&#160;&#160;     [media.spectacularnwt.com](https://media.spectacularnwt.com/)<br>
-&#160;&#160;&#160;&#160;     [traveltrade.spectacularnwt.com](https://traveltrade.spectacularnwt.com/)<br>
-&#160;&#160;&#160;&#160;     [members.spectacularnwt.com](https://members.spectacularnwt.com/)<br>
-&#160;&#160;&#160;&#160;     [conferences.spectacularnwt.com](https://conferences.spectacularnwt.com/)<br>
-&#160;&#160;&#160;&#160;     [virtual.spectacularnwt.com](https://virtual.spectacularnwt.com/)<br><br>
-&#160;&#160;&#160;&#160; **Up Here Publishing**<br>
-&#160;&#160;&#160;&#160;     [uphere.ca](https://uphere.ca/)<br><br>
-&#160;&#160;&#160;&#160; **Giant Mine Remediation Project**<br>
-&#160;&#160;&#160;&#160;     [giantminerp.ca](https://giantminerp.ca/)<br><br>
-&#160;&#160;&#160;&#160; **Northwest Territories Power Corporation**<br>
-&#160;&#160;&#160;&#160;     [ntpc.com](https://www.ntpc.com/)<br><br>
-&#160;&#160;&#160;&#160; **Inuvialuit Regional Corporation**<br>
-&#160;&#160;&#160;&#160;     [irc.inuvialuit.com](https://www.irc.inuvialuit.com/)<br><br>
-&#160;&#160;&#160;&#160; **Workers' Safety and Compensation Commission (WSCC)**<br>
-&#160;&#160;&#160;&#160;     [wscc.nt.ca](https://www.wscc.nt.ca/)<br><br>
-&#160;&#160;&#160;&#160; **Government of Nunavut**<br>
-&#160;&#160;&#160;&#160;     [gov.nu.ca](https://www.gov.nu.ca/)<br>
-&#160;&#160;&#160;&#160;     [livehealthy.gov.nu.ca](https://livehealthy.gov.nu.ca/)<br>
-&#160;&#160;&#160;&#160;     [nuquits.gov.nu.ca](https://nuquits.gov.nu.ca/)<br>
-&#160;&#160;&#160;&#160;     [nuphysicians.ca](https://nuphysicians.ca/)<br><br>
-&#160;&#160;&#160;&#160; **Tourism PEI: Ask an Islander**<br>
-&#160;&#160;&#160;&#160;     [tourismpei.com](https://www.tourismpei.com/askanislander)<br><br>
-&#160;&#160;&#160;&#160; **Azamara Club Cruises**<br>
-&#160;&#160;&#160;&#160;     [azamara.com](http://azamara.com/)<br>
+**Northwest Territories Tourism**<br>
+&#160;&#160;&#160;&#160; [spectacularnwt.com](https://spectacularnwt.com/)<br>
+&#160;&#160;&#160;&#160; [media.spectacularnwt.com](https://media.spectacularnwt.com/)<br>
+&#160;&#160;&#160;&#160; [traveltrade.spectacularnwt.com](https://traveltrade.spectacularnwt.com/)<br>
+&#160;&#160;&#160;&#160; [members.spectacularnwt.com](https://members.spectacularnwt.com/)<br>
+&#160;&#160;&#160;&#160; [conferences.spectacularnwt.com](https://conferences.spectacularnwt.com/)<br>
+&#160;&#160;&#160;&#160; [virtual.spectacularnwt.com](https://virtual.spectacularnwt.com/)<br><br>
+**Up Here Publishing**<br>
+&#160;&#160;&#160;&#160; [uphere.ca](https://uphere.ca/)<br><br>
+**Giant Mine Remediation Project**<br>
+&#160;&#160;&#160;&#160; [giantminerp.ca](https://giantminerp.ca/)<br><br>
+**Northwest Territories Power Corporation**<br>
+&#160;&#160;&#160;&#160; [ntpc.com](https://www.ntpc.com/)<br><br>
+**Inuvialuit Regional Corporation**<br>
+&#160;&#160;&#160;&#160; [irc.inuvialuit.com](https://www.irc.inuvialuit.com/)<br><br>
+**Workers' Safety and Compensation Commission**<br>
+&#160;&#160;&#160;&#160; [wscc.nt.ca](https://www.wscc.nt.ca/)<br><br>
+**Government of Nunavut**<br>
+&#160;&#160;&#160;&#160; [gov.nu.ca](https://www.gov.nu.ca/)<br>
+&#160;&#160;&#160;&#160; [livehealthy.gov.nu.ca](https://livehealthy.gov.nu.ca/)<br>
+&#160;&#160;&#160;&#160; [nuquits.gov.nu.ca](https://nuquits.gov.nu.ca/)<br>
+&#160;&#160;&#160;&#160; [nuphysicians.ca](https://nuphysicians.ca/)<br><br>
+**Tourism PEI: Ask an Islander**<br>
+&#160;&#160;&#160;&#160; [tourismpei.com](https://www.tourismpei.com/askanislander)<br><br>
+**Azamara Club Cruises**<br>
+&#160;&#160;&#160;&#160; [azamara.com](http://azamara.com/)<br>
 
-### <u>*WordPress:*</u>
+### <u>WordPress:</u>
 
 &#160;&#160;&#160;&#160; **Kenn Borek Air**<br>
 &#160;&#160;&#160;&#160;     [borekair.com](https://borekair.com/)<br><br>
@@ -170,9 +168,9 @@ Numerous online/offline free/purchased courses, countless books, and hands-on ex
 <br>
 
 ## Profiles
-&#160;&#160;&#160;&#160; **GitHub** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [https://github.com/jasondmoss](https://github.com/jasondmoss)<br>
-&#160;&#160;&#160;&#160; **Behance** &#160;&#160;&#160;&#160;&#160; [https://www.behance.net/jasondmoss](https://www.behance.net/jasondmoss)<br>
-&#160;&#160;&#160;&#160; **About.me** &#160;&#160;&#160; [https://about.me/jasondmoss](https://about.me/jasondmoss)<br>
-&#160;&#160;&#160;&#160; **LinkedIn** &#160;&#160;&#160;&#160;&#160; [https://www.linkedin.com/in/jasondmoss](https://www.linkedin.com/in/jasondmoss)<br>
-&#160;&#160;&#160;&#160; **Twitter** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [https://twitter.com/jasondmoss](https://twitter.com/jasondmoss)<br>
-&#160;&#160;&#160;&#160; **Last.fm** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [https://www.last.fm/user/jasondmoss/](https://www.last.fm/user/jasondmoss/)
+**GitHub** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [https://github.com/jasondmoss](https://github.com/jasondmoss)<br>
+**Behance** &#160;&#160;&#160;&#160;&#160; [https://www.behance.net/jasondmoss](https://www.behance.net/jasondmoss)<br>
+**About.me** &#160;&#160;&#160; [https://about.me/jasondmoss](https://about.me/jasondmoss)<br>
+**LinkedIn** &#160;&#160;&#160;&#160;&#160; [https://www.linkedin.com/in/jasondmoss](https://www.linkedin.com/in/jasondmoss)<br>
+**Twitter** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [https://twitter.com/jasondmoss](https://twitter.com/jasondmoss)<br>
+**Last.fm** &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; [https://www.last.fm/user/jasondmoss/](https://www.last.fm/user/jasondmoss/)
