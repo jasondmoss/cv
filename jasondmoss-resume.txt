@@ -1,152 +1,180 @@
-﻿Curriculum vitae
+Curriculum vitae
 Jason D. Moss
-Email:        work@jdmlabs.com                                                                        »  Current resume
+Email:        work@jdmlabs.com
 Phone:        +1 (867) 765-8415
 Ottawa, Canada
 
+Current resume: https://github.com/jasondmoss/cv
 
 In Brief
-I am a well-rounded web developer dealing mostly with Drupal, WordPress and Laravel. I have strong front-end abilities with HTML5, CSS3 and JavaScript.
+
+I am a well-rounded web developer dealing mostly with Drupal, WordPress and
+Laravel. I have strong front-end abilities with HTML5, CSS3 and JavaScript.
 
 
 Technical Skills
 ________________
-* PHP
-   * Drupal
-   * Laravel
-   * Symfony
-   * WordPress
-   * Craft CMS
-   * b2evolution
-   * Testing (Unit, Pest)
-* JavaScript
-* Semantic HTML
-* Structured Data + SEO
-* CSS3
-* Responsive Design
-* Databases (MySQL, PostgreSQL)
-* Linux server admin (Apache, scripts)
-* Version Control Systems (Git, SVN)
+
+  * PHP
+     * Drupal
+     * Laravel
+     * Symfony
+     * WordPress
+     * Craft CMS
+     * b2evolution
+     * Testing (Unit, Pest)
+  * JavaScript
+  * Semantic HTML
+  * Structured Data + SEO
+  * CSS3
+  * Responsive Design
+  * Databases (MySQL, PostgreSQL)
+  * Linux server admin (Apache, scripts)
+  * Version Control Systems (Git, SVN)
+
+
 Work History
 ________________
-JdmLabs -  jdmlabs.com
+
+JdmLabs - https://www.jdmlabs.com
 Independent Web Developer - Freelance/Contract
 Oct 2006 — present
 Drupal, Laravel, WordPress, Craft CMS, b2evolution, Shopify
 
+I have been working as an independent contractor, to varying degrees, for many
+years now, ranging from custom plug-ins, to complete multilingual + multi-site
+setups; e-commerce; small websites; single-page applications; and nearly
+everything in between.
 
-I have been working as an independent contractor, to varying degrees, for many years now, ranging from custom plug-ins, to complete multilingual + multi-site setups; e-commerce; small websites; single-page applications; and nearly everything in between.
 
-
-Outcrop Communications Ltd. -  outcrop.com
+Outcrop Communications Ltd. -  https://outcrop.com
 Web Developer
 Jul 2017 — Apr 2023
 Drupal, WordPress
 
+Built and maintained (back-end/front-end) websites and components for many
+northern Canada companies, institutions and government entities.
+  * custom content administration + rendering
+  * third-party content integration
+  * custom APIs for web + mobile integrations
 
-Built and maintained (back-end/front-end) websites and components for many northern Canada companies, institutions and government entities.
-* custom content administration + rendering
-* third-party content integration
-* custom APIs for web + mobile integrations
 
-
-The Well - Creative Consultants Inc. -  gotothewell.ca
+The Well - Creative Consultants Inc. -  https://gotothewell.ca
 Independent Web Developer
 Nov 2016 — 2017
 WordPress
 
+Responsible for building a tourism activity site with mobile geolocation
+abilities, contest entry and management.
 
-Responsible for building a tourism activity site with mobile geolocation abilities, contest entry and management.
 
-
-VERB Interactive Inc. -  verbinteractive.com
+VERB Interactive Inc. -  https://verbinteractive.com
 Web Developer
 Mar 2014 — Sept 2016
 Drupal, WordPress
 
+Built and maintained (back-end/front-end) websites and components for some of
+the largest travel + destination companies in the industry:
+  * custom content administration + rendering
+  * third-party content integration
+  * custom APIs for web + mobile integrations
 
-Built and maintained (back-end/front-end) websites and components for some of the largest travel + destination companies in the industry:
-* custom content administration + rendering
-* third-party content integration
-* custom APIs for web + mobile integrations
 
-
-Media Mechanics Inc. -  mediamechanics.com
+Media Mechanics Inc. -  https://www.mediamechanics.com
 Web Developer
 Aug 2012 — May 2013
 Drupal, WordPress
 
-
 Contract-based development work:
-* custom content administration + rendering
-* third-party content integration
-* company websites + blogs
+  * custom content administration + rendering
+  * third-party content integration
+  * company websites + blogs
 
 
-Revolve Branding + Marketing -  revolve.ca
+Revolve Branding + Marketing -  https://believeco.com
 Web Developer
 Jan 2011 — Feb 2012
 Drupal, WordPress
 
-
-Built and maintained (back-end/front-end) websites and components for local and cross-Canada companies:
-
-
-* company websites + blogs
-* third-party content integration
-
-
+Built and maintained (back-end/front-end) websites and components for local and
+cross-Canada companies:
+  * company websites + blogs
+  * third-party content integration
 
 
 Education
 ________________
+
 DeVry Institute of Technology
 Computer Information Systems
 2001 — 2003
 
 
-Countless online/offline free/purchased courses, books, conferences and hands-on experiences
+Countless online/offline free/purchased courses, books, conferences and hands-on
+experiences.
 2001 — present
-
-
 
 
 Recommendations
 ________________
 
-
-I've worked with Jason in varying capacities for 2-3 years and he is a pleasure, both as a developer and as a person. I've never known Jason to shy away from any challenge in the web development world and this makes him an important part of any project. He writes modern, semantic and well-commented code in both the front-end and back-end arenas. He asks lots of questions, provides solutions, is always eager to learn and is willing to do whatever it takes to see a job through. I'd recommend Jason to anyone.
-
-
-        — Gavin Mullen, Director of Technology at VERB Interactive Inc.
+I've worked with Jason in varying capacities for 2-3 years and he is a pleasure,
+both as a developer and as a person. I've never known Jason to shy away from any
+challenge in the web development world and this makes him an important part of
+any project. He writes modern, semantic and well-commented code in both the
+front-end and back-end arenas. He asks lots of questions, provides solutions,
+is always eager to learn and is willing to do whatever it takes to see a job
+through. I'd recommend Jason to anyone.
+    — Gavin Mullen, Director of Technology at VERB Interactive Inc.
 
 
 Site Samples
 These are a few (currently active) sites I have built:
 ________________
-Drupal
-Northwest Territories Tourism (+ multiple sub-sites):        spectacularnwt.com, media, traveltrade, conferences
-Up Here Publishing:                                        uphere.ca
-Giant Mine Remediation Project:                        giantminerp.ca
-Northwest Territories Power Corporation:                ntpc.com
-Inuvialuit Regional Corporation:                        irc.inuvialuit.com
-Workers' Safety and Compensation Commission:        wscc.nt.ca
-Government of Nunavut:                                gov.nu.ca, livehealthy, nuquits, nuphysicians
-Tourism Prince Edward Island - Ask an Islander:        tourismpei.com
-Azamara Club Cruises:                                azamara.com
-WordPress
-Kenn Borek Air:                                        borekair.com
-Royal Caribbean International - Media Hub:                royalcaribbean.com
-Hilton Head Island (+ multiple sub-sites):                hiltonheadisland.org
-1 Hotel & Homes South Beach:                        1hotels.com
-Best Burners Ltd:                                        bestburners.ca
+
+DRUPAL
+  Northwest Territories Tourism (+ multiple sub-sites):
+      https://spectacularnwt.com
+      https://media.spectacularnwt.com
+      https://traveltrade.spectacularnwt.com
+      https://conferences.spectacularnwt.com
+  Up Here Publishing:
+      https://uphere.ca
+  Giant Mine Remediation Project:
+      https://giantminerp.ca
+  Northwest Territories Power Corporation:
+      https://ntpc.com
+  Inuvialuit Regional Corporation:
+      https://irc.inuvialuit.com
+  Workers' Safety and Compensation Commission:
+      https://wscc.nt.ca
+  Government of Nunavut:
+      https://gov.nu.ca
+      https://livehealthy.gov.nu.ca
+      https://nuquits.gov.nu.ca
+      https://nuphysicians.ca
+  Tourism Prince Edward Island - Ask an Islander:
+      https://www.tourismpei.com/askanislander
+
+WORDPRESS
+  Kenn Borek Air:
+      https://borekair.com
+  Royal Caribbean International - Media Hub:
+      https://www.royalcaribbean.com/connect
+  Hilton Head Island (+ multiple sub-sites):
+      https://hiltonheadisland.org
+  1 Hotel & Homes South Beach:
+      https://brokers.1hotels.com/southbeach
+  Best Burners Ltd:
+      https://bestburners.ca
 
 
 Personal + Social Profiles
 ________________
-GitHub:        github.com/jasondmoss
-Behance:        behance.net/jasondmoss
-About.me:        about.me/jasondmoss
-LinkedIn:        linkedin.com/in/jasondmoss
-Twitter:                twitter.com/jasondmoss
-Last.fm:        last.fm/user/jasondmoss
+
+GitHub:    https://github.com/jasondmoss
+Behance:   https://behance.net/jasondmoss
+About.me:  https://about.me/jasondmoss
+LinkedIn:  https://linkedin.com/in/jasondmoss
+Twitter:   https://twitter.com/jasondmoss
+Last.fm:   https://last.fm/user/jasondmoss
