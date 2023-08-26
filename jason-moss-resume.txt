@@ -1,0 +1,75 @@
+Jason Moss, Web Developer
+work@jdmlabs.com
+867-765-8415
+
+
+EDUCATION
+------------
+
+  DeVry Institute of Technology
+  Computer Information Systems
+  2001 — 2003
+  Calgary, AB
+
+
+SKILLS
+------------
+
+  TECHNICAL: PHP, Drupal, Laravel, WordPress, Semantic HTML5, Responsive CSS3,
+    Vanilla JavaScript, MySQL, Git, SVN, Linux, Shell, Apache, Ngnix, SEO,
+    Structured data,
+
+  SOFT: Problem solving, organized, focused, documentation, quick learner
+
+
+EXPERIENCE
+------------
+
+  OUTCROP COMMUNICATIONS
+    Web Developer
+    2017/07 — 2023/04
+    Yellowknife, Nwt
+
+    Drupal, WordPress
+    Custom administration, 3rd-party integration, apis integrations for many
+    companies and government institutions.
+
+
+  THE WELL CONSULTANTS
+    Web Developer: Contract
+    2016/11 — 2017/06
+    Halifax, Ns
+
+    WordPress
+    Built a tourism contest website with mobile geo-location tracking, user
+    and contest entry management.
+
+
+  VERB INTERACTIVE
+    Web Developer
+    2014/03 — 2016/09
+    Halifax, Ns
+
+    Drupal, WordPress
+    Custom administration, retail, 3rd-party integration, custom apis for some
+    of the largest travel companies in the industry.
+
+
+  MEDIA MECHANICS
+    Web Developer: Contract
+    2012/08 — 2013/05
+    Dartmouth, Ns
+
+    Drupal, WordPress
+    Various government, educational and business websites with api and mobile
+    integrations.
+
+
+  REVOLVE BRANDING
+    Web Developer
+    2011/01 — 2012/02
+    Bedford, Ns
+
+    Drupal, WordPress
+    Built and maintained websites for local and nation-wide companies: blogs,
+    retail and 3rd-party integrations.
