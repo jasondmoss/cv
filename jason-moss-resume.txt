@@ -1,4 +1,5 @@
-Jason Moss, Web Developer
+JASON MOSS
+PHP Developer
 work@jdmlabs.com
 867-765-8415
 
@@ -16,10 +17,11 @@ SKILLS
 ------------
 
   TECHNICAL: PHP, Drupal, Laravel, WordPress, Semantic HTML5, Responsive CSS3,
-    Vanilla JavaScript, MySQL, Git, SVN, Linux, Shell, Apache, Ngnix, SEO,
-    Structured data,
+             Vanilla JavaScript, MySQL, Git, SVN, Linux, Shell, Servers,
+             Structured Data, SEO, WCAG, ARIA
 
-  SOFT: Problem solving, organized, focused, documentation, quick learner
+  SOFT: Problem solving, quick learner, organized, focused, determined,
+        documentation
 
 
 EXPERIENCE
@@ -30,9 +32,9 @@ EXPERIENCE
     2017/07 — 2023/04
     Yellowknife, Nwt
 
-    Drupal, WordPress
-    Custom administration, 3rd-party integration, apis integrations for many
-    companies and government institutions.
+    Drupal 7/8/9
+    Custom modules, theming, commerce, APIs, third-party integrations for many
+    local businesses,organizations, governments and governmental departments.
 
 
   THE WELL CONSULTANTS
@@ -41,8 +43,8 @@ EXPERIENCE
     Halifax, Ns
 
     WordPress
-    Built a tourism contest website with mobile geo-location tracking, user
-    and contest entry management.
+    Built a custom tourism contest website with mobile geolocation tracking,
+    user and contest entry management.
 
 
   VERB INTERACTIVE
@@ -50,9 +52,9 @@ EXPERIENCE
     2014/03 — 2016/09
     Halifax, Ns
 
-    Drupal, WordPress
-    Custom administration, retail, 3rd-party integration, custom apis for some
-    of the largest travel companies in the industry.
+    Drupal 7, WordPress
+    Custom modules/plug-ins, theming, commerce and API/third-party integrations
+    for some of the largest travel companies in the industry.
 
 
   MEDIA MECHANICS
@@ -60,9 +62,9 @@ EXPERIENCE
     2012/08 — 2013/05
     Dartmouth, Ns
 
-    Drupal, WordPress
-    Various government, educational and business websites with api and mobile
-    integrations.
+    Drupal 7, WordPress
+    Custom theming and modules/plug-ins for various governmental, educational
+    and business websites.
 
 
   REVOLVE BRANDING
@@ -72,4 +74,4 @@ EXPERIENCE
 
     Drupal, WordPress
     Built and maintained websites for local and nation-wide companies: blogs,
-    retail and 3rd-party integrations.
+    commerce and third-party integrations.
