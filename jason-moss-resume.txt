@@ -16,12 +16,9 @@ EDUCATION
 SKILLS
 ------------
 
-  TECHNICAL: PHP, Drupal, Laravel, WordPress, Semantic HTML5, Responsive CSS3,
-             Vanilla JavaScript, MySQL, Git, SVN, Linux, Shell, Servers,
-             Structured Data, SEO, WCAG, ARIA
+  TECHNICAL: PHP, Drupal, Laravel, WordPress, Semantic HTML5, Responsive CSS3, Vanilla JavaScript, MySQL, Git, SVN, Linux, Shell, Servers, Structured Data, SEO, WCAG, ARIA
 
-  SOFT: Problem solving, quick learner, organized, focused, determined,
-        documentation
+  SOFT: Problem solving, quick learner, organized, focused, determined, documentation
 
 
 EXPERIENCE
@@ -30,48 +27,43 @@ EXPERIENCE
   OUTCROP COMMUNICATIONS
     Web Developer
     2017/07 — 2023/04
-    Yellowknife, Nwt
+    Yellowknife, NWT
 
     Drupal 7/8/9
-    Custom modules, theming, commerce, APIs, third-party integrations for many
-    local businesses,organizations, governments and governmental departments.
+    Custom modules, theming, commerce, APIs, third-party integrations for many local businesses,organizations, governments and governmental departments.
 
 
   THE WELL CONSULTANTS
     Web Developer: Contract
     2016/11 — 2017/06
-    Halifax, Ns
+    Halifax, NS
 
     WordPress
-    Built a custom tourism contest website with mobile geolocation tracking,
-    user and contest entry management.
+    Built a custom tourism contest website with mobile geolocation tracking, user and contest entry management.
 
 
   VERB INTERACTIVE
     Web Developer
     2014/03 — 2016/09
-    Halifax, Ns
+    Halifax, NS
 
     Drupal 7, WordPress
-    Custom modules/plug-ins, theming, commerce and API/third-party integrations
-    for some of the largest travel companies in the industry.
+    Custom modules/plug-ins, theming, commerce and API/third-party integrations for some of the largest travel companies in the industry.
 
 
   MEDIA MECHANICS
     Web Developer: Contract
     2012/08 — 2013/05
-    Dartmouth, Ns
+    Dartmouth, NS
 
     Drupal 7, WordPress
-    Custom theming and modules/plug-ins for various governmental, educational
-    and business websites.
+    Custom theming and modules/plug-ins for various governmental, educational and business websites.
 
 
   REVOLVE BRANDING
     Web Developer
     2011/01 — 2012/02
-    Bedford, Ns
+    Bedford, NS
 
-    Drupal, WordPress
-    Built and maintained websites for local and nation-wide companies: blogs,
-    commerce and third-party integrations.
+    Drupal 7, WordPress
+    Built and maintained websites for local and nation-wide companies: blogs, commerce and third-party integrations.
