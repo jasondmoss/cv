@@ -3,6 +3,8 @@ PHP Developer
 work@jdmlabs.com
 867-765-8415
 
+I plan, develop, implement and maintain modern web sites, adhering to strict open standards and conventions. Compliant. Portable. Functional.
+
 
 EDUCATION
 ------------
@@ -24,14 +26,21 @@ SKILLS
 EXPERIENCE
 ------------
 
+  CYAN SOLUTIONS
+    Mid-Senior Drupal Developer
+    2023/11 - Present
+    Ottawa, ON
+
+    Drupal 7/8/9/10
+    Custom modules, theming, APIs, third-party integrations for many local businesses, organizations and governmental departments.
+
   OUTCROP COMMUNICATIONS
-    Web Developer
+    Drupal Developer
     2017/07 — 2023/04
     Yellowknife, NWT
 
     Drupal 7/8/9
     Custom modules, theming, commerce, APIs, third-party integrations for many local businesses,organizations, governments and governmental departments.
-
 
   THE WELL CONSULTANTS
     Web Developer: Contract
@@ -41,7 +50,6 @@ EXPERIENCE
     WordPress
     Built a custom tourism contest website with mobile geolocation tracking, user and contest entry management.
 
-
   VERB INTERACTIVE
     Web Developer
     2014/03 — 2016/09
@@ -50,7 +58,6 @@ EXPERIENCE
     Drupal 7, WordPress
     Custom modules/plug-ins, theming, commerce and API/third-party integrations for some of the largest travel companies in the industry.
 
-
   MEDIA MECHANICS
     Web Developer: Contract
     2012/08 — 2013/05
@@ -58,7 +65,6 @@ EXPERIENCE
 
     Drupal 7, WordPress
     Custom theming and modules/plug-ins for various governmental, educational and business websites.
-
 
   REVOLVE BRANDING
     Web Developer
