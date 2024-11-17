@@ -1,7 +1,7 @@
 JASON MOSS
-PHP Developer
+Artisan Web Developer
 work@jdmlabs.com
-867-765-8415
+(867) 765-8415
 
 I plan, develop, implement and maintain modern web sites, adhering to strict open standards and conventions. Compliant. Portable. Functional.
 
@@ -15,61 +15,83 @@ EDUCATION
   Calgary, AB
 
 
-SKILLS
-------------
-
-  TECHNICAL: PHP, Drupal, Laravel, WordPress, Semantic HTML5, Responsive CSS3, Vanilla JavaScript, MySQL, Git, SVN, Linux, Shell, Servers, Structured Data, SEO, WCAG, ARIA
-
-  SOFT: Problem solving, quick learner, organized, focused, determined, documentation
-
-
 EXPERIENCE
 ------------
 
+  JDMLABS
+    Contract Web Developer
+    2006 - Present
+    Canada / US
+
+    Custom development
+    Symfony, Laravel, JavaScript, HTML5, CSS3, Drupal, Craft, WordPress, B2evolution, Shopify
+
+
   CYAN SOLUTIONS
     Mid-Senior Drupal Developer
-    2023/11 - Present
+    2023 - Present
     Ottawa, ON
 
-    Drupal 7/8/9/10
-    Custom modules, theming, APIs, third-party integrations for many local businesses, organizations and governmental departments.
+    Custom development
+    Drupal 7/8/9/10, WordPress, WooCommerce
 
   OUTCROP COMMUNICATIONS
     Drupal Developer
-    2017/07 — 2023/04
+    2017 — 2023
     Yellowknife, NWT
 
-    Drupal 7/8/9
-    Custom modules, theming, commerce, APIs, third-party integrations for many local businesses,organizations, governments and governmental departments.
+    Custom development
+    Drupal 7/8/9, WordPress
 
   THE WELL CONSULTANTS
     Web Developer: Contract
-    2016/11 — 2017/06
+    2016 — 2017
     Halifax, NS
 
-    WordPress
-    Built a custom tourism contest website with mobile geolocation tracking, user and contest entry management.
+    Custom WordPress development
 
   VERB INTERACTIVE
     Web Developer
-    2014/03 — 2016/09
+    2014 — 2016
     Halifax, NS
 
+    Custom development
     Drupal 7, WordPress
-    Custom modules/plug-ins, theming, commerce and API/third-party integrations for some of the largest travel companies in the industry.
 
   MEDIA MECHANICS
     Web Developer: Contract
-    2012/08 — 2013/05
+    2012 — 2013
     Dartmouth, NS
 
+    Custom development
     Drupal 7, WordPress
-    Custom theming and modules/plug-ins for various governmental, educational and business websites.
 
   REVOLVE BRANDING
     Web Developer
-    2011/01 — 2012/02
+    2011 — 2012
     Bedford, NS
 
+    Custom development
     Drupal 7, WordPress
-    Built and maintained websites for local and nation-wide companies: blogs, commerce and third-party integrations.
+
+
+SKILLS
+------------
+
+  TECHNICAL:
+    PHP, Symfony, Laravel, Drupal, Craft, WordPress, MySQL/MariaDB
+
+    JavaScript, ES Modules, Structured Data, Semantic HTML5, Responsive CSS3, WCAG, ARIA, SEO
+
+    Linux, Shell, Apache, Nginx, Git, CI/CD, DDEV
+
+
+  SOFT:
+    Analytical problem-solving, quick learner, organized, focused, determined, documenter
+
+
+
+https://github.com/jasondmoss
+https://www.behance.net/jasondmoss
+https://www.linkedin.com/in/jasondmoss/
+https://www.last.fm/user/jasondmoss
