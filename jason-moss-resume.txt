@@ -1,97 +1,152 @@
-JASON MOSS
-Artisan Web Developer
-work@jdmlabs.com
-(867) 765-8415
+Jason D. Moss
 
-I plan, develop, implement and maintain modern web sites, adhering to strict open standards and conventions. Compliant. Portable. Functional.
-
-
-EDUCATION
-------------
-
-  DeVry Institute of Technology
-  Computer Information Systems
-  2001 — 2003
-  Calgary, AB
+Senior Web Developer
+websites    https://www.jdmlabs.com
+email       work@jdmlabs.com
+telephone   (867) 765-8415
 
 
-EXPERIENCE
-------------
+PROFILE    _____________________________________________________________________
 
-  JDMLABS
-    Contract Web Developer
-    2006 - Present
-    Canada / US
+A multi-faceted and experienced web developer with over 18 years of expertise
+in planning, developing, implementing, and maintaining modern websites. Adept
+in Drupal 10/11 development, multilingual site configuration, custom module
+creation, and performance optimization. Skilled at applying secure coding
+practices and deployment automation to ensure scalable and efficient web
+solutions.
 
-    Custom development
-    Symfony, Laravel, JavaScript, HTML5, CSS3, Drupal, Craft, WordPress, B2evolution, Shopify
-
-
-  CYAN SOLUTIONS
-    Mid-Senior Drupal Developer
-    2023 - Present
-    Ottawa, ON
-
-    Custom development
-    Drupal 7/8/9/10, WordPress, WooCommerce
-
-  OUTCROP COMMUNICATIONS
-    Drupal Developer
-    2017 — 2023
-    Yellowknife, NWT
-
-    Custom development
-    Drupal 7/8/9, WordPress
-
-  THE WELL CONSULTANTS
-    Web Developer: Contract
-    2016 — 2017
-    Halifax, NS
-
-    Custom WordPress development
-
-  VERB INTERACTIVE
-    Web Developer
-    2014 — 2016
-    Halifax, NS
-
-    Custom development
-    Drupal 7, WordPress
-
-  MEDIA MECHANICS
-    Web Developer: Contract
-    2012 — 2013
-    Dartmouth, NS
-
-    Custom development
-    Drupal 7, WordPress
-
-  REVOLVE BRANDING
-    Web Developer
-    2011 — 2012
-    Bedford, NS
-
-    Custom development
-    Drupal 7, WordPress
+Committed to supporting organizations in transforming their web environments
+and defining robust web strategies, strictly adhering to open standards and
+conventions.
 
 
-SKILLS
-------------
+EDUCATION    ___________________________________________________________________
 
-  TECHNICAL:
-    PHP, Symfony, Laravel, Drupal, Craft, WordPress, MySQL/MariaDB
-
-    JavaScript, ES Modules, Structured Data, Semantic HTML5, Responsive CSS3, WCAG, ARIA, SEO
-
-    Linux, Shell, Apache, Nginx, Git, CI/CD, DDEV
+DeVry Institute of Technology
+Bachelor's in Computer Information Systems
+Calgary, AB | 2001 – 2003
 
 
-  SOFT:
-    Analytical problem-solving, quick learner, organized, focused, determined, documenter
+KEY SKILLS    __________________________________________________________________
+
+Drupal Expertise
+    • Full-cycle Drupal 7–11 development.
+    • Multilingual website configuration, including domain detection and
+      language switching.
+    • Custom module creation and theming using Twig templates.
+    • Advanced Views configuration and custom content type design.
+Security and Performance Optimization
+    • Implemented security best practices, ensuring compliance with DSAs.
+    • Conducted audits to identify vulnerabilities and optimize performance.
+    • Enhanced front-end and back-end performance using caching, database
+      tuning, and API integrations.
+Deployment and Automation
+    • Experienced in Docker-based application containerization and deployment.
+    • Built CI/CD pipelines using Git and Azure DevOps for automated workflows.
+    • Managed Linux-based environments and cloud infrastructure.
+Technical Tools and Technologies
+    Languages:      PHP 8, JavaScript (ES6+), HTML5, CSS3
+    Frameworks/CMS: Drupal 7–11, WordPress, Laravel, Craft CMS, B2evolution
+    Databases:      MySQL/MariaDB
+    Other Tools:    Apache, Solr, Docker, Git, Azure DevOps, W3C Standards,
+                    WCAG 2 Standards
 
 
+PROFESSIONAL EXPERIENCE    _____________________________________________________
 
-https://github.com/jasondmoss
-https://www.behance.net/jasondmoss
-https://www.linkedin.com/in/jasondmoss/
-https://www.last.fm/user/jasondmoss
+JdmLabs
+https://www.jdmlabs.com
+2006 — Present
+Contract-based (freelance) development projects of many types.
+
+Cyan Solutions Ltd.
+https://cyansolutions.com
+2023 — Present
+Projects:
+    Coaching Association of Canada
+    https://coach.ca
+        • Drupal 7 to 10 migration
+        • Custom hand-crafted theme
+        • Custom modules to enhance required functionality
+        • Multilingual (English, French)
+        • Google Maps API integration
+
+    Canadian Association of Optometrists
+    https://opto.ca/find-doc
+        • Custom Drupal 10 module to enable searching for physicians within
+          Canada; utilizes Google Maps API and Wicket.io CRM integrations
+
+    Association of Justice Counsel (new Drupal 11 site launching in April)
+    https://ajc-ajj.ca
+        • Drupal 7 to 11 migration
+        • Custom hand-crafted theme
+        • Custom modules to enhance required functionality
+        • Multilingual (English, French)
+        • Azure SSO integration
+        • MyBB Forum intagration
+
+Outcrop Communications Ltd.
+https://www.outcrop.com
+2017 — 2023
+Projects:
+    Northwest Territories Tourism
+    https://spectacularnwt.com
+        • Drupal 7 to 9 migration
+        • Custom hand-crafted theme
+        • Custom modules to enhance required functionality
+        • Google Maps API integration
+    Up Here Publishing
+    https://www.uphere.ca
+        • Drupal 7 to 9 migration
+        • Custom hand-crafted theme
+        • Custom modules to enhance required functionality
+        • E-commerce & magazine subcription management
+    Department of Health, Government of Nunavut
+    https://livehealthy.gov.nu.ca
+        • Drupal 7
+        • Custom hand-crafted theme
+        • Custom modules to enhance required functionality
+        • Multilingual (English, French, Innuinaqtun, Inuktitut)
+    Northwest Territories Power Corporation
+    https://www.ntpc.com
+        • Drupal 7 to 9 migration
+        • Custom hand-crafted theme
+        • Custom modules to enhance required functionality
+
+VERB Interactive Inc.
+https://www.verbinteractive.com
+2014 — 2016
+Projects:
+    Royal Caribbean International
+    https://www.royalcaribbean.com/blog
+        • WordPress
+    Hilton Head Island, South Carolina
+    https://www.hiltonheadisland.org
+        • WordPress
+        • Custom Dashboard to manage vendors, amenities, services, etc.
+    Ask an Islander: Tourism Prince Edward Island
+    https://www.tourismpei.com/askanislander
+        • Drupal 7
+        • Custom Question/Answer management
+
+
+OTHER PROJECTS    ______________________________________________________________
+
+Interuniversity Services Incorporated (ISI)
+http://brokers.1hotels.com/southbeach
+    ◦ WordPress
+Dalhousie University Alumni
+https://www.dal.ca/alumni.html
+    ◦ WordPress
+Best Burners Ltd.
+https://www.bestburners.ca
+    ◦ WordPress
+Taste of Nova Scotia Good Cheer Trail
+https://goodcheertrail.com
+    ◦ WordPress
+    ◦ Custom user, location, scrore, and prize management system
+
+
+SECURITY CLEARANCE    __________________________________________________________
+
+Enhanced Reliability Clearance (Government of Canada)
