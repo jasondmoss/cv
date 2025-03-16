@@ -1,9 +1,11 @@
 Jason D. Moss
-
 Senior Web Developer
-websites    https://www.jdmlabs.com
-email       work@jdmlabs.com
-telephone   (867) 765-8415
+
+websites: https://www.jdmlabs.com
+email: work@jdmlabs.com
+telephone: (867) 765-8415
+
+Current resume: https://github.com/jasondmoss/cv
 
 
 PROFILE    _____________________________________________________________________
@@ -53,89 +55,91 @@ Cyan Solutions Ltd.
 https://cyansolutions.com
 2023 — Present
 Projects:
-    Coaching Association of Canada
-    https://coach.ca
-        • Drupal 7 to 10 migration
-        • Custom hand-crafted theme
-        • Custom modules to enhance required functionality
-        • Multilingual (English, French)
-        • Google Maps API integration
 
-    Canadian Association of Optometrists
-    https://opto.ca/find-doc
-        • Custom Drupal 10 module to enable searching for physicians within Canada; utilizes Google Maps API and Wicket.io CRM integrations
+Coaching Association of Canada
+https://coach.ca
+    • Drupal 7 to 10 migration
+    • Custom hand-crafted theme
+    • Custom modules to enhance required functionality
+    • Multilingual (English, French)
+    • Google Maps API integration
 
-    Association of Justice Counsel (new Drupal 11 site launching in April)
-    https://ajc-ajj.ca
-        • Drupal 7 to 11 migration
-        • Custom hand-crafted theme
-        • Custom modules to enhance required functionality
-        • Multilingual (English, French)
-        • Azure SSO integration
-        • MyBB Forum intagration
+Canadian Association of Optometrists
+https://opto.ca/find-doc
+    • Custom Drupal 10 module to enable searching for physicians within Canada; utilizes Google Maps API and Wicket.io CRM integrations
+
+Association of Justice Counsel (new Drupal 11 site launching in April)
+https://ajc-ajj.ca
+    • Drupal 7 to 11 migration
+    • Custom hand-crafted theme
+    • Custom modules to enhance required functionality
+    • Multilingual (English, French)
+    • Azure SSO integration
+    • MyBB Forum integration
 
 Outcrop Communications Ltd.
 https://www.outcrop.com
 2017 — 2023
 Projects:
-    Northwest Territories Tourism
-    https://spectacularnwt.com
-        • Drupal 7 to 9 migration
-        • Custom hand-crafted theme
-        • Custom modules to enhance required functionality
-        • Google Maps API integration
-    Up Here Publishing
-    https://www.uphere.ca
-        • Drupal 7 to 9 migration
-        • Custom hand-crafted theme
-        • Custom modules to enhance required functionality
-        • E-commerce & magazine subscription management
-    Department of Health, Government of Nunavut
-    https://livehealthy.gov.nu.ca
-        • Drupal 7
-        • Custom hand-crafted theme
-        • Custom modules to enhance required functionality
-        • Multilingual (English, French, Innuinaqtun, Inuktitut)
-    Northwest Territories Power Corporation
-    https://www.ntpc.com
-        • Drupal 7 to 9 migration
-        • Custom hand-crafted theme
-        • Custom modules to enhance required functionality
+
+Northwest Territories Tourism
+https://spectacularnwt.com
+    • Drupal 7 to 9 migration
+    • Custom hand-crafted theme
+    • Custom modules to enhance required functionality
+    • Google Maps API integration
+
+Up Here Publishing
+https://www.uphere.ca
+    • Drupal 7 to 9 migration
+    • Custom hand-crafted theme
+    • Custom modules to enhance required functionality
+    • E-commerce & magazine subscription management
+
+Department of Health, Government of Nunavut
+https://livehealthy.gov.nu.ca
+    • Drupal 7
+    • Custom hand-crafted theme
+    • Custom modules to enhance required functionality
+    • Multilingual (English, French, Innuinaqtun, Inuktitut)
+
+Northwest Territories Power Corporation
+https://www.ntpc.com
+    • Drupal 7 to 9 migration
+    • Custom hand-crafted theme
+    • Custom modules to enhance required functionality
 
 VERB Interactive Inc.
 https://www.verbinteractive.com
 2014 — 2016
 Projects:
-    Royal Caribbean International
-    https://www.royalcaribbean.com/blog
-        • WordPress
-    Hilton Head Island, South Carolina
-    https://www.hiltonheadisland.org
-        • WordPress
-        • Custom Dashboard to manage vendors, amenities, services, etc.
-    Ask an Islander: Tourism Prince Edward Island
-    https://www.tourismpei.com/askanislander
-        • Drupal 7
-        • Custom Question/Answer management
 
+Ask an Islander: Tourism Prince Edward Island
+https://www.tourismpei.com/askanislander
+    • Drupal 7
+    • Custom Question/Answer management
 
-OTHER PROJECTS    ______________________________________________________________
+Royal Caribbean International
+https://www.royalcaribbean.com/blog
+    • WordPress
 
-Interuniversity Services Incorporated (ISI)
-http://brokers.1hotels.com/southbeach
-    ◦ WordPress
-Dalhousie University Alumni
-https://www.dal.ca/alumni.html
-    ◦ WordPress
-Best Burners Ltd.
-https://www.bestburners.ca
-    ◦ WordPress
-Taste of Nova Scotia Good Cheer Trail
-https://goodcheertrail.com
-    ◦ WordPress
-    ◦ Custom user, location, scrore, and prize management system
+Hilton Head Island, South Carolina
+https://www.hiltonheadisland.org
+    • WordPress
+    • Custom Dashboard to manage vendors, amenities, services, etc.
 
 
 SECURITY CLEARANCE    __________________________________________________________
 
 Enhanced Reliability Clearance (Government of Canada)
+
+
+________________________________________________________________________________
+
+https://www.jdmlabs.com
+https://github.com/jasondmoss
+https://gitlab.com/jasondmoss
+https://www.behance.net/jasondmoss
+https://www.linkedin.com/in/jasondmoss
+
+Latest version: https://github.com/jasondmoss/cv
