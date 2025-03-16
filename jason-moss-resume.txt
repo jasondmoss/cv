@@ -8,16 +8,9 @@ telephone   (867) 765-8415
 
 PROFILE    _____________________________________________________________________
 
-A multi-faceted and experienced web developer with over 18 years of expertise
-in planning, developing, implementing, and maintaining modern websites. Adept
-in Drupal 10/11 development, multilingual site configuration, custom module
-creation, and performance optimization. Skilled at applying secure coding
-practices and deployment automation to ensure scalable and efficient web
-solutions.
+A multi-faceted and experienced web developer with over 18 years of expertise in planning, developing, implementing, and maintaining modern websites. Adept in Drupal 10/11 development, multilingual site configuration, custom module creation, and performance optimization. Skilled at applying secure coding practices and deployment automation to ensure scalable and efficient web solutions.
 
-Committed to supporting organizations in transforming their web environments
-and defining robust web strategies, strictly adhering to open standards and
-conventions.
+Committed to supporting organizations in transforming their web environments and defining robust web strategies, strictly adhering to open standards and conventions.
 
 
 EDUCATION    ___________________________________________________________________
@@ -31,15 +24,13 @@ KEY SKILLS    __________________________________________________________________
 
 Drupal Expertise
     • Full-cycle Drupal 7–11 development.
-    • Multilingual website configuration, including domain detection and
-      language switching.
+    • Multilingual website configuration, including domain detection and language switching.
     • Custom module creation and theming using Twig templates.
     • Advanced Views configuration and custom content type design.
 Security and Performance Optimization
     • Implemented security best practices, ensuring compliance with DSAs.
     • Conducted audits to identify vulnerabilities and optimize performance.
-    • Enhanced front-end and back-end performance using caching, database
-      tuning, and API integrations.
+    • Enhanced front-end and back-end performance using caching, database tuning, and API integrations.
 Deployment and Automation
     • Experienced in Docker-based application containerization and deployment.
     • Built CI/CD pipelines using Git and Azure DevOps for automated workflows.
@@ -48,8 +39,7 @@ Technical Tools and Technologies
     Languages:      PHP 8, JavaScript (ES6+), HTML5, CSS3
     Frameworks/CMS: Drupal 7–11, WordPress, Laravel, Craft CMS, B2evolution
     Databases:      MySQL/MariaDB
-    Other Tools:    Apache, Solr, Docker, Git, Azure DevOps, W3C Standards,
-                    WCAG 2 Standards
+    Other Tools:    Apache, Solr, Docker, Git, Azure DevOps, W3C Standards, WCAG 2 Standards
 
 
 PROFESSIONAL EXPERIENCE    _____________________________________________________
@@ -73,8 +63,7 @@ Projects:
 
     Canadian Association of Optometrists
     https://opto.ca/find-doc
-        • Custom Drupal 10 module to enable searching for physicians within
-          Canada; utilizes Google Maps API and Wicket.io CRM integrations
+        • Custom Drupal 10 module to enable searching for physicians within Canada; utilizes Google Maps API and Wicket.io CRM integrations
 
     Association of Justice Counsel (new Drupal 11 site launching in April)
     https://ajc-ajj.ca
@@ -100,7 +89,7 @@ Projects:
         • Drupal 7 to 9 migration
         • Custom hand-crafted theme
         • Custom modules to enhance required functionality
-        • E-commerce & magazine subcription management
+        • E-commerce & magazine subscription management
     Department of Health, Government of Nunavut
     https://livehealthy.gov.nu.ca
         • Drupal 7
