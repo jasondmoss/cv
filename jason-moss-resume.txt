@@ -1,139 +1,148 @@
 Jason D. Moss
 Senior Web Developer
 
-
 PROFILE    _____________________________________________________________________
 
-A multi-faceted and experienced web developer with over 18 years of expertise in planning, developing, implementing, and maintaining modern websites. Adept in Drupal 10/11 development, multilingual site configuration, custom module creation, and performance optimization. Skilled at applying secure coding practices and deployment automation to ensure scalable and efficient web solutions.
+A multi-faceted and experienced web developer with over 18 years of expertise in
+planning, developing, implementing, and maintaining modern websites. Adept in
+Drupal 10/11 development, multilingual site configuration, custom module
+creation, and performance optimization. Skilled at applying secure coding
+practices and deployment automation to ensure scalable and efficient web
+solutions.
 
-Committed to supporting organizations in transforming their web environments and defining robust web strategies, strictly adhering to open standards and conventions.
-
+Committed to supporting organizations in transforming their web environments and
+defining robust web strategies, strictly adhering to open standards and
+conventions.
 
 EDUCATION    ___________________________________________________________________
 
 DeVry Institute of Technology
-Bachelor's in Computer Information Systems
+Computer Information Systems
 Calgary, AB | 2001 – 2003
 
-
-KEY SKILLS    __________________________________________________________________
-
+KEY SKILLS     _________________________________________________________________
 Drupal Expertise
-    • Full-cycle Drupal 7–11 development.
-    • Multilingual website configuration, including domain detection and language switching.
-    • Custom module creation and theming using Twig templates.
-    • Advanced Views configuration and custom content type design.
+  - Full-cycle Drupal 7–11 development
+  - Multilingual website configuration, including domain detection and language
+    switching
+  - Custom module creation and theming using Twig templates
+  - Advanced Views configuration and custom content type design
+
 Security and Performance Optimization
-    • Implemented security best practices, ensuring compliance with DSAs.
-    • Conducted audits to identify vulnerabilities and optimize performance.
-    • Enhanced front-end and back-end performance using caching, database tuning, and API integrations.
+  - Implemented security best practices, ensuring compliance with DSAs
+  - Conducted audits to identify vulnerabilities and optimize performance
+  - Enhanced front-end and back-end performance using caching, database tuning,
+    and API integrations
+
 Deployment and Automation
-    • Experienced in Docker-based application containerization and deployment.
-    • Built CI/CD pipelines using Git and Azure DevOps for automated workflows.
-    • Managed Linux-based environments and cloud infrastructure.
+  - Experienced in Docker-based application containerization and deployment
+  - Built CI/CD pipelines using Git and Azure DevOps for automated workflows
+  - Managed Linux-based environments and cloud infrastructure
+
 Technical Tools and Technologies
     Languages:      PHP 8, JavaScript (ES6+), HTML5, CSS3
-    Frameworks/CMS: Drupal 7–11, WordPress, Laravel, Craft CMS, B2evolution
+    Frameworks/CMS: Symfony, Laravel, Drupal 7–11, Craft CMS, WordPress,
+                    B2evolution
     Databases:      MySQL/MariaDB
-    Other Tools:    Apache, Solr, Docker, Git, Azure DevOps, W3C Standards, WCAG 2 Standards
-
+    Other Tools:    Git, Docker, Azure, Apache, ElasticSearch, Solr, W3C
+                    Standards, WCAG 2  Standards
 
 PROFESSIONAL EXPERIENCE    _____________________________________________________
+    I. JdmLabs
+       https://www.jdmlabs.com
+       2006 — Present
+       Freelance/Contract-based development projects of many types and sizes.
 
-JdmLabs
-https://www.jdmlabs.com
-2006 — Present
-Contract-based (freelance) development projects of many types.
+   II. Cyan Solutions Ltd.
+       https://cyansolutions.com
+       2023 — 2025
+       Projects:
+          Coaching Association of Canada
+          https://coach.ca
+            - Drupal 7 to Drupal 10 migration
+            - Custom hand-crafted theme
+            - Custom modules to enhance required functionality
+            - Multilingual (English, French)
+            - Google Maps API integration
 
-Cyan Solutions Ltd.
-https://cyansolutions.com
-2023 — Present
-Projects:
-  Coaching Association of Canada
-  https://coach.ca
-      • Drupal 7 to 10 migration
-      • Custom hand-crafted theme
-      • Custom modules to enhance required functionality
-      • Multilingual (English, French)
-      • Google Maps API integration
+          Canadian Association of Optometrists
+          https://opto.ca/find-doc
+            - Custom Drupal 10 module to enable searching for physicians within
+              Canada; utilizes Google Maps API and Wicket.io CRM integrations
 
-  Canadian Association of Optometrists
-  https://opto.ca/find-doc
-      • Custom Drupal 10 module to enable searching for physicians within Canada; utilizes Google Maps API and Wicket.io CRM integrations
+          Association of Justice Counsel
+          https://ajc-ajj.ca
+            - Drupal 7 to Drupal 11 migration
+            - Custom hand-crafted theme
+            - Custom modules to enhance required functionality
+            - Multilingual (English, French)
+            - Azure SSO integration
+            - MyBB Forum integration
 
-  Association of Justice Counsel (new Drupal 11 site launching in April)
-  https://ajc-ajj.ca
-      • Drupal 7 to 11 migration
-      • Custom hand-crafted theme
-      • Custom modules to enhance required functionality
-      • Multilingual (English, French)
-      • Azure SSO integration
-      • MyBB Forum integration
+  III. Outcrop Communications Ltd.
+       https://www.outcrop.com
+       2017 — 2023
+       Projects:
+          Northwest Territories Tourism
+          https://spectacularnwt.com
+            - Drupal 7 to Drupal 9 migration
+            - Custom hand-crafted theme
+            - Custom modules to enhance required functionality
+            - Google Maps API integration
 
-Outcrop Communications Ltd.
-https://www.outcrop.com
-2017 — 2023
-Projects:
-  Northwest Territories Tourism
-  https://spectacularnwt.com
-      • Drupal 7 to 9 migration
-      • Custom hand-crafted theme
-      • Custom modules to enhance required functionality
-      • Google Maps API integration
-
-  Up Here Publishing
-  https://www.uphere.ca
-      • Drupal 7 to 9 migration
-      • Custom hand-crafted theme
-      • Custom modules to enhance required functionality
-      • E-commerce & magazine subscription management
-
-  Department of Health, Government of Nunavut
-  https://livehealthy.gov.nu.ca
-      • Drupal 7
-      • Custom hand-crafted theme
-      • Custom modules to enhance required functionality
-      • Multilingual (English, French, Innuinaqtun, Inuktitut)
-
-  Northwest Territories Power Corporation
-  https://www.ntpc.com
-      • Drupal 7 to 9 migration
-      • Custom hand-crafted theme
-      • Custom modules to enhance required functionality
-
-VERB Interactive Inc.
-https://www.verbinteractive.com
-2014 — 2016
-Projects:
-  Ask an Islander: Tourism Prince Edward Island
-  https://www.tourismpei.com/askanislander
-      • Drupal 7
-      • Custom Question/Answer management
-
-  Royal Caribbean International
-  https://www.royalcaribbean.com/blog
-      • WordPress
-
-  Hilton Head Island, South Carolina
-  https://www.hiltonheadisland.org
-      • WordPress
-      • Custom Dashboard to manage vendors, amenities, services, etc.
+          Up Here Publishing
+          https://www.uphere.ca
+            - Drupal 7 to Drupal 9 migration
+            - Custom hand-crafted theme
+            - Custom modules to enhance required functionality
+            - E-commerce & magazine subscription management
 
 
-SECURITY CLEARANCE    __________________________________________________________
+          Northwest Territories Power Corporation
+          https://www.ntpc.com
+            - Drupal 7 to Drupal 9 migration
+            - Custom hand-crafted theme
+            - Custom modules to enhance required functionality
 
-Enhanced Reliability Clearance (Government of Canada)
+          Department of Health, Government of Nunavut
+          https://livehealthy.gov.nu.ca
+            - Drupal 7
+            - Custom hand-crafted theme
+            - Custom modules to enhance required functionality
+            - Multilingual (English, French, Innuinaqtun, Inuktitut)
+
+   IV. VERB Interactive Inc.
+       https://www.verbinteractive.com
+       2014 — 2016
+       Projects:
+          Ask an Islander: Tourism Prince Edward Island
+          https://www.tourismpei.com/askanislander
+            - Drupal 7
+            - Custom Question/Answer management
+
+          Royal Caribbean International
+          https://www.royalcaribbean.com/blog
+            - WordPress
+
+          Hilton Head Island, South Carolina
+          https://www.hiltonheadisland.org
+            - WordPress
+            - Custom Dashboard to manage vendors, amenities, services, etc.
+
+SECURITY    ____________________________________________________________________
+  - Enhanced Reliability Security clearance (Government of Canada)
 
 
 ________________________________________________________________________________
 
-https://www.jdmlabs.com
-https://github.com/jasondmoss
-https://gitlab.com/jasondmoss
-https://www.behance.net/jasondmoss
-https://www.linkedin.com/in/jasondmoss
-
 Contact information available upon request.
 
 
-Latest version: https://github.com/jasondmoss/cv
+Homepage   https://www.jdmlabs.com
+GitHub     https://github.com/jasondmoss
+GitLab     https://gitlab.com/jasondmoss
+Behance    https://www.behance.net/jasondmoss
+LinkedIn   https://www.linkedin.com/in/jasondmoss
+
+
+latest version: github.com/jasondmoss/cv
