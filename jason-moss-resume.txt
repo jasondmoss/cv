@@ -1,6 +1,7 @@
 Jason D. Moss
 Senior Web Developer
 
+
 PROFILE    _____________________________________________________________________
 
 A multi-faceted and experienced web developer with over 18 years of expertise in
@@ -14,7 +15,9 @@ Committed to supporting organizations in transforming their web environments and
 defining robust web strategies, strictly adhering to open standards and
 conventions.
 
+
 KEY SKILLS     _________________________________________________________________
+
 Drupal Expertise
   - Full-cycle Drupal 7–11 development
   - Multilingual website configuration, including domain detection and language
@@ -41,7 +44,9 @@ Technical Tools and Technologies
     Other Tools:    Git, Docker, Azure, Apache, ElasticSearch, Solr, W3C
                     Standards, WCAG 2  Standards
 
+
 PROFESSIONAL EXPERIENCE    _____________________________________________________
+
     I. JdmLabs
        https://www.jdmlabs.com
        2006 — Present
@@ -51,6 +56,7 @@ PROFESSIONAL EXPERIENCE    _____________________________________________________
        https://cyansolutions.com
        2023 — 2025
        Projects:
+
           Coaching Association of Canada
           https://coach.ca
             - Drupal 7 to Drupal 10 migration
@@ -71,12 +77,12 @@ PROFESSIONAL EXPERIENCE    _____________________________________________________
             - Custom modules to enhance required functionality
             - Multilingual (English, French)
             - Azure SSO integration
-            - MyBB Forum integration
 
   III. Outcrop Communications Ltd.
        https://www.outcrop.com
        2017 — 2023
        Projects:
+
           Northwest Territories Tourism
           https://spectacularnwt.com
             - Drupal 7 to Drupal 9 migration
@@ -90,7 +96,6 @@ PROFESSIONAL EXPERIENCE    _____________________________________________________
             - Custom hand-crafted theme
             - Custom modules to enhance required functionality
             - E-commerce & magazine subscription management
-
 
           Northwest Territories Power Corporation
           https://www.ntpc.com
@@ -109,6 +114,7 @@ PROFESSIONAL EXPERIENCE    _____________________________________________________
        https://www.verbinteractive.com
        2014 — 2016
        Projects:
+
           Ask an Islander: Tourism Prince Edward Island
           https://www.tourismpei.com/askanislander
             - Drupal 7
@@ -123,14 +129,17 @@ PROFESSIONAL EXPERIENCE    _____________________________________________________
             - WordPress
             - Custom Dashboard to manage vendors, amenities, services, etc.
 
+
 EDUCATION    ___________________________________________________________________
 
 DeVry Institute of Technology
 Computer Information Systems
 Calgary, AB | 2001 – 2003
 
+
 SECURITY    ____________________________________________________________________
-  - Enhanced Reliability Security clearance (Government of Canada)
+
+Enhanced Reliability Security clearance (Government of Canada)
 
 
 
