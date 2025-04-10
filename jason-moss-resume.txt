@@ -14,12 +14,6 @@ Committed to supporting organizations in transforming their web environments and
 defining robust web strategies, strictly adhering to open standards and
 conventions.
 
-EDUCATION    ___________________________________________________________________
-
-DeVry Institute of Technology
-Computer Information Systems
-Calgary, AB | 2001 – 2003
-
 KEY SKILLS     _________________________________________________________________
 Drupal Expertise
   - Full-cycle Drupal 7–11 development
@@ -129,13 +123,18 @@ PROFESSIONAL EXPERIENCE    _____________________________________________________
             - WordPress
             - Custom Dashboard to manage vendors, amenities, services, etc.
 
+EDUCATION    ___________________________________________________________________
+
+DeVry Institute of Technology
+Computer Information Systems
+Calgary, AB | 2001 – 2003
+
 SECURITY    ____________________________________________________________________
   - Enhanced Reliability Security clearance (Government of Canada)
 
 
 
-
-Contact information available upon request.
+Contact information and references available upon request.
 
 
 Homepage   https://www.jdmlabs.com
@@ -145,4 +144,4 @@ Behance    https://www.behance.net/jasondmoss
 LinkedIn   https://www.linkedin.com/in/jasondmoss
 
 
-latest version: github.com/jasondmoss/cv
+Latest version(s):    https://github.com/jasondmoss/cv
