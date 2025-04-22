@@ -18,25 +18,26 @@ defining robust web strategies, strictly adhering to open standards and
 conventions.
 
 
+
 KEY SKILLS     _________________________________________________________________
 
 Drupal Expertise
-  - Full-cycle Drupal 7–11 development
-  - Multilingual website configuration, including domain detection and language
-    switching
-  - Custom module creation and theming using Twig templates
-  - Advanced Views configuration and custom content type design
+    - Full-cycle Drupal 7–11 development
+    - Multilingual website configuration, including domain detection and
+      language switching
+    - Custom module creation and theming using Twig templates
+    - Advanced Views configuration and custom content type design
 
 Security and Performance Optimization
-  - Implemented security best practices, ensuring compliance with DSAs
-  - Conducted audits to identify vulnerabilities and optimize performance
-  - Enhanced front-end and back-end performance using caching, database tuning,
-    and API integrations
+    - Implemented security best practices, ensuring compliance with DSAs
+    - Conducted audits to identify vulnerabilities and optimize performance
+    - Enhanced front-end and back-end performance using caching, database
+      tuning, and API integrations
 
 Deployment and Automation
-  - Experienced in Docker-based application containerization and deployment
-  - Built CI/CD pipelines using Git and Azure DevOps for automated workflows
-  - Managed Linux-based environments and cloud infrastructure
+    - Experienced in Docker-based application containerization and deployment
+    - Built CI/CD pipelines using Git and Azure DevOps for automated workflows
+    - Managed Linux-based environments and cloud infrastructure
 
 Technical Tools and Technologies
     Languages:      PHP 8, JavaScript (ES6+), HTML5, CSS3
@@ -47,89 +48,97 @@ Technical Tools and Technologies
                     Standards, WCAG 2  Standards
 
 
+
 PROFESSIONAL EXPERIENCE    _____________________________________________________
 
-    I. JdmLabs
-       https://www.jdmlabs.com
-       2006 — Present
-       Freelance/Contract-based development projects of many types and sizes.
+JdmLabs
+https://www.jdmlabs.com
+2006 — Present
+Freelance/Contract-based development projects of many types and sizes.
 
-   II. Cyan Solutions Ltd.
-       https://cyansolutions.com
-       2023 — 2025
-       Projects:
 
-          Coaching Association of Canada
-          https://coach.ca
-            - Drupal 7 to Drupal 10 migration
-            - Custom hand-crafted theme
-            - Custom modules to enhance required functionality
-            - Multilingual (English, French)
-            - Google Maps API integration
+Cyan Solutions Ltd.
+https://cyansolutions.com
+2023 — 2025
 
-          Canadian Association of Optometrists
-          https://opto.ca/find-doc
-            - Custom Drupal 10 module to enable searching for physicians within
-              Canada; utilizes Google Maps API and Wicket.io CRM integrations
+Projects:
 
-          Association of Justice Counsel
-          https://ajc-ajj.ca
-            - Drupal 7 to Drupal 11 migration
-            - Custom hand-crafted theme
-            - Custom modules to enhance required functionality
-            - Multilingual (English, French)
-            - Azure SSO integration
+    Coaching Association of Canada
+    https://coach.ca
+        - Drupal 7 to Drupal 10 migration
+        - Custom hand-crafted theme
+        - Custom modules to enhance required functionality
+        - Multilingual (English, French)
+        - Google Maps API integration
 
-  III. Outcrop Communications Ltd.
-       https://www.outcrop.com
-       2017 — 2023
-       Projects:
+    Canadian Association of Optometrists
+    https://opto.ca/find-doc
+        - Custom Drupal 10 module to enable searching for physicians within
+          Canada; utilizes Google Maps API and Wicket.io CRM integrations
 
-          Northwest Territories Tourism
-          https://spectacularnwt.com
-            - Drupal 7 to Drupal 9 migration
-            - Custom hand-crafted theme
-            - Custom modules to enhance required functionality
-            - Google Maps API integration
+    Association of Justice Counsel
+    https://ajc-ajj.ca
+        - Drupal 7 to Drupal 11 migration
+        - Custom hand-crafted theme
+        - Custom modules to enhance required functionality
+        - Multilingual (English, French)
+        - Azure SSO integration
 
-          Up Here Publishing
-          https://www.uphere.ca
-            - Drupal 7 to Drupal 9 migration
-            - Custom hand-crafted theme
-            - Custom modules to enhance required functionality
-            - E-commerce & magazine subscription management
 
-          Northwest Territories Power Corporation
-          https://www.ntpc.com
-            - Drupal 7 to Drupal 9 migration
-            - Custom hand-crafted theme
-            - Custom modules to enhance required functionality
+Outcrop Communications Ltd.
+https://www.outcrop.com
+2017 — 2023
 
-          Department of Health, Government of Nunavut
-          https://livehealthy.gov.nu.ca
-            - Drupal 7
-            - Custom hand-crafted theme
-            - Custom modules to enhance required functionality
-            - Multilingual (English, French, Innuinaqtun, Inuktitut)
+Projects:
 
-   IV. VERB Interactive Inc.
-       https://www.verbinteractive.com
-       2014 — 2016
-       Projects:
+    Northwest Territories Tourism
+    https://spectacularnwt.com
+        - Drupal 7 to Drupal 9 migration
+        - Custom hand-crafted theme
+        - Custom modules to enhance required functionality
+        - Google Maps API integration
 
-          Ask an Islander: Tourism Prince Edward Island
-          https://www.tourismpei.com/askanislander
-            - Drupal 7
-            - Custom Question/Answer management
+    Up Here Publishing
+    https://www.uphere.ca
+        - Drupal 7 to Drupal 9 migration
+        - Custom hand-crafted theme
+        - Custom modules to enhance required functionality
+        - E-commerce & magazine subscription management
 
-          Royal Caribbean International
-          https://www.royalcaribbean.com/blog
-            - WordPress
+    Northwest Territories Power Corporation
+    https://www.ntpc.com
+        - Drupal 7 to Drupal 9 migration
+        - Custom hand-crafted theme
+        - Custom modules to enhance required functionality
 
-          Hilton Head Island, South Carolina
-          https://www.hiltonheadisland.org
-            - WordPress
-            - Custom Dashboard to manage vendors, amenities, services, etc.
+    Department of Health, Government of Nunavut
+    https://livehealthy.gov.nu.ca
+        - Drupal 7
+        - Custom hand-crafted theme
+        - Custom modules to enhance required functionality
+        - Multilingual (English, French, Innuinaqtun, Inuktitut)
+
+
+VERB Interactive Inc.
+https://www.verbinteractive.com
+2014 — 2016
+
+Projects:
+
+    Ask an Islander: Tourism Prince Edward Island
+    https://www.tourismpei.com/askanislander
+        - Drupal 7
+        - Custom Question/Answer management
+
+    Royal Caribbean International
+    https://www.royalcaribbean.com/blog
+        - WordPress
+
+    Hilton Head Island, South Carolina
+    https://www.hiltonheadisland.org
+        - WordPress
+        - Custom Dashboard to manage vendors, amenities, services, etc.
+
 
 
 EDUCATION    ___________________________________________________________________
@@ -139,13 +148,16 @@ Computer Information Systems
 Calgary, AB | 2001 – 2003
 
 
+
 SECURITY    ____________________________________________________________________
 
 Enhanced Reliability Security clearance (Government of Canada)
+issued: 2025/01/20  |  expires: 2035
 
 
 
-Contact information and references available upon request.
+References available upon request.
+
 
 
 Homepage   https://www.jdmlabs.com
