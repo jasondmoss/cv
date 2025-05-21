@@ -1,0 +1,118 @@
+JASON D. MOSS
+Drupal Developer          
+
+Location: Ottawa, Ontario, Canada K1K 4Z2
+Telephone:  (867) 765-8415
+Email:      work@jdmlabs.com
+Website:    https://www.jdmlabs.com
+
+
+OVERVIEW     ___________________________________________________________________
+
+A multi-faceted and experienced web developer with over 18 years of expertise in
+planning, developing, implementing, and maintaining modern websites. Adept in
+Drupal 10/11 development, multilingual site configuration, custom module
+creation, and performance optimization. Skilled at applying secure coding
+practices and deployment automation to ensure scalable and efficient web
+solutions.
+
+Committed to supporting organizations in transforming their web environments and
+defining robust web strategies, strictly adhering to open standards and
+conventions.
+
+
+KEY SKILLS     _________________________________________________________________
+
+DRUPAL EXPERTISE
+ — Full-cycle Drupal 10 and 11 development, including migrations from Drupal
+      7, 8 and 9
+ — Multilingual website configuration, including domain detection and
+      language switching
+ — Custom module creation and theming using Twig templates
+ — Advanced Views configuration and custom content type design
+
+SECURITY AND PERFORMANCE OPTIMIZATION
+ — Implemented security best practices, ensuring compliance with DSAs
+ — Conducted audits to identify vulnerabilities and optimize performance
+ — Enhanced front-end and back-end performance using caching, database
+      tuning, and API integrations
+
+DEPLOYMENT AND AUTOMATION
+ — Experienced in Docker-based application containerization and deployment
+ — Built CI/CD pipelines using Git and Azure DevOps for automated workflows
+ — Managed Linux-based environments and cloud infrastructure
+
+TECHNICAL TOOLS AND TECHNOLOGIES
+    Languages:      PHP 8, JavaScript (ES6+), HTML5, CSS3
+    Frameworks/CMS: Symfony, Drupal 7–11, Craft CMS, Laravel, WordPress, 
+                    B2evolution
+    Databases:      MySQL/MariaDB
+    Other Tools:    Git, Docker, Azure, Apache, ElasticSearch, Solr, W3C
+                    Standards, WCAG Standards
+
+
+PROFESSIONAL EXPERIENCE     ____________________________________________________
+
+CYAN SOLUTIONS LTD.
+2023 — 2025
+https://cyansolutions.com
+
+ — Association of Justice Counsel
+    https://ajc.cyanserver.ca (Development version – launches May/June)
+ — Coaching Association of Canada
+    https://coach.ca
+ — Canadian Association of Optometrists: Find A Doc
+    https://opto.ca/find-doc
+
+OUTCROP COMMUNICATIONS LTD.
+2017 — 2023
+https://www.outcrop.com
+
+ — Workers’ Safety Compensation Commission
+    https://wscc.nt.ca
+ — Up Here Publishing
+    https://www.uphere.ca
+ — Northwest Territories Power Corporation
+    https://www.ntpc.com
+ — Northwest Territories Tourism
+    https://spectacularnwt.com
+ — Government of Nunavut, Department of Health: Healthy Living
+    https://livehealthy.gov.nu.ca
+ — Government of Nunavut, Department of Health: Nunavut Physicians
+    https://nuphysicians.ca
+
+VERB INTERACTIVE INC.
+2014 — 2016
+https://www.verbinteractive.com
+
+ — Tourism of Prince Edward Island: Ask An Islander
+    https://www.tourismpei.com/askanislander
+ — Royal Caribbean International
+    https://www.royalcaribbean.com/blog
+ — Hilton Head Island, South Carolina
+    https://www.hiltonheadisland.org
+
+
+EDUCATION     __________________________________________________________________
+
+DeVry Institute of Technology
+Computer Information Systems
+Calgary, AB  |  2001 — 2003
+
+
+SECURITY     ___________________________________________________________________
+
+Enhanced Reliability Security Clearance (Government of Canada)
+issued: 2025/01/20    |    expires: 2035/01/20
+
+
+This is a basic version of my resume; please contact me if you wish to learn
+more about project details.  Specific references are available upon request.
+
+Profiles:
+    https://www.behance.net/jasondmoss
+    https://www.linkedin.com/in/jasondmoss/
+    https://github.com/jasondmoss
+    https://gitlab.com/jasondmoss
+
+Latest version:  https://github.com/jasondmoss/cv
